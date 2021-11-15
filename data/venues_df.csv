@@ -17,15 +17,15 @@ creative mass,Design Studio,30.265117977658107,-97.73154157169562,2404,"{'type':
 PGi Studios,Office,30.266438970497536,-97.7428490496442,1330,"{'type': 'Point', 'coordinates': [30.266438970497536, -97.7428490496442]}",Austin,Design Studio
 Hack Studio,Design Studio,30.274418,-97.762763,780,"{'type': 'Point', 'coordinates': [30.274418, -97.762763]}",Austin,Design Studio
 Minuteman Press,Print Shop,30.273324,-97.759424,440,"{'type': 'Point', 'coordinates': [30.273324, -97.759424]}",Austin,Design Studio
-St. Luke Infant Care Center,Nursery School,30.281570434570312,-97.75916290283203,1200,"{'type': 'Point', 'coordinates': [30.281570434570312, -97.75916290283203]}",Austin,Nursery School
-Casa Montessori,School,30.276975505531276,-97.77144413590408,1658,"{'type': 'Point', 'coordinates': [30.276975505531276, -97.77144413590408]}",Austin,Nursery School
-Preschool,Nursery School,30.275018533245635,-97.74243679931313,1325,"{'type': 'Point', 'coordinates': [30.275018533245635, -97.74243679931313]}",Austin,Nursery School
-Rosewood Primary School,Nursery School,30.27787289564879,-97.7412432282035,1557,"{'type': 'Point', 'coordinates': [30.27787289564879, -97.7412432282035]}",Austin,Nursery School
-The Martin House,Preschool,30.274393,-97.760895,623,"{'type': 'Point', 'coordinates': [30.274393, -97.760895]}",Austin,Preschool
-Kinney Avenue Christian Preschool,Preschool,30.25156,-97.76779,2490,"{'type': 'Point', 'coordinates': [30.25156, -97.76779]}",Austin,Preschool
-Pease Elementary,Elementary School,30.274782003099872,-97.74826702164712,799,"{'type': 'Point', 'coordinates': [30.274782003099872, -97.74826702164712]}",Austin,Elementary School
-Zilker Elementary School,Elementary School,30.2529258384913,-97.77425158786833,2721,"{'type': 'Point', 'coordinates': [30.2529258384913, -97.77425158786833]}",Austin,Elementary School
-Mathews Elementary School,Elementary School,30.278495372719583,-97.76129259928938,978,"{'type': 'Point', 'coordinates': [30.278495372719583, -97.76129259928938]}",Austin,Elementary School
+St. Luke Infant Care Center,Nursery School,30.281570434570312,-97.75916290283203,1200,"{'type': 'Point', 'coordinates': [30.281570434570312, -97.75916290283203]}",Austin,School
+Casa Montessori,School,30.276975505531276,-97.77144413590408,1658,"{'type': 'Point', 'coordinates': [30.276975505531276, -97.77144413590408]}",Austin,School
+Preschool,Nursery School,30.275018533245635,-97.74243679931313,1325,"{'type': 'Point', 'coordinates': [30.275018533245635, -97.74243679931313]}",Austin,School
+Rosewood Primary School,Nursery School,30.27787289564879,-97.7412432282035,1557,"{'type': 'Point', 'coordinates': [30.27787289564879, -97.7412432282035]}",Austin,School
+The Martin House,Preschool,30.274393,-97.760895,623,"{'type': 'Point', 'coordinates': [30.274393, -97.760895]}",Austin,School
+Kinney Avenue Christian Preschool,Preschool,30.25156,-97.76779,2490,"{'type': 'Point', 'coordinates': [30.25156, -97.76779]}",Austin,School
+Pease Elementary,Elementary School,30.274782003099872,-97.74826702164712,799,"{'type': 'Point', 'coordinates': [30.274782003099872, -97.74826702164712]}",Austin,School
+Zilker Elementary School,Elementary School,30.2529258384913,-97.77425158786833,2721,"{'type': 'Point', 'coordinates': [30.2529258384913, -97.77425158786833]}",Austin,School
+Mathews Elementary School,Elementary School,30.278495372719583,-97.76129259928938,978,"{'type': 'Point', 'coordinates': [30.278495372719583, -97.76129259928938]}",Austin,School
 Qcue Headquarters,Tech Startup,30.272009000000004,-97.757663,222,"{'type': 'Point', 'coordinates': [30.272009000000004, -97.757663]}",Austin,Tech Startup
 Enola Labs,Tech Startup,30.268389457332024,-97.74315118789673,1231,"{'type': 'Point', 'coordinates': [30.268389457332024, -97.74315118789673]}",Austin,Tech Startup
 Tabbedout,Tech Startup,30.26998361007319,-97.74251499790671,1258,"{'type': 'Point', 'coordinates': [30.26998361007319, -97.74251499790671]}",Austin,Tech Startup
@@ -112,29 +112,29 @@ Casa de Luz,Vegetarian / Vegan Restaurant,30.26412621398494,-97.76180412774343,9
 True Food Kitchen,New American Restaurant,30.267194,-97.752134,557,"{'type': 'Point', 'coordinates': [30.267194, -97.752134]}",Austin,Vegetarian / Vegan Restaurant
 Arlo's,Food Truck,30.26948257262005,-97.73621984170359,1865,"{'type': 'Point', 'coordinates': [30.26948257262005, -97.73621984170359]}",Austin,Vegetarian / Vegan Restaurant
 Texas School For The Deaf Basketball Gym,Basketball Stadium,30.253042851915485,-97.7523680947662,2050,"{'type': 'Point', 'coordinates': [30.253042851915485, -97.7523680947662]}",Austin,Basketball Stadium
-West Lynn Veterinary Clinic,Veterinarian,30.27655219353802,-97.7610233408046,792,"{'type': 'Point', 'coordinates': [30.27655219353802, -97.7610233408046]}",Austin,Veterinarian
-Highlands Pet Medical Clinic,Veterinarian,30.278146999999997,-97.751743,848,"{'type': 'Point', 'coordinates': [30.278146999999997, -97.751743]}",Austin,Veterinarian
-Animal Allergy and Dermatology,Veterinarian,30.277229,-97.77135,1660,"{'type': 'Point', 'coordinates': [30.277229, -97.77135]}",Austin,Veterinarian
-ZippiVet,Veterinarian,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Veterinarian
-Abraham Veterinary Clinic,Veterinarian,30.280808,-97.74347,1572,"{'type': 'Point', 'coordinates': [30.280808, -97.74347]}",Austin,Veterinarian
-Lake Austin Blvd Animal hospital,Veterinarian,30.277395569136342,-97.7717405251127,1702,"{'type': 'Point', 'coordinates': [30.277395569136342, -97.7717405251127]}",Austin,Veterinarian
-Healthy Pet,Pet Store,30.26734,-97.752343,532,"{'type': 'Point', 'coordinates': [30.26734, -97.752343]}",Austin,Pet Service
-Upper Paw Urban Pet Resort,Pet Service,30.269452,-97.75019,550,"{'type': 'Point', 'coordinates': [30.269452, -97.75019]}",Austin,Pet Service
-Bus Stop 4086 - 5th & West Lynn,Bus Stop,30.273689208070937,-97.76327265616915,793,"{'type': 'Point', 'coordinates': [30.273689208070937, -97.76327265616915]}",Austin,Pet Service
-C Dog Lady,Pet Service,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Pet Service
-Abraham Veterinary Clinic,Veterinarian,30.280808,-97.74347,1572,"{'type': 'Point', 'coordinates': [30.280808, -97.74347]}",Austin,Pet Service
-Woof Gang Bakery,Pet Store,30.27727485195775,-97.75138524797313,778,"{'type': 'Point', 'coordinates': [30.27727485195775, -97.75138524797313]}",Austin,Pet Service
-Invisible Fence of Southeast Texas,Construction & Landscaping,30.277859684390798,-97.75182072879514,816,"{'type': 'Point', 'coordinates': [30.277859684390798, -97.75182072879514]}",Austin,Pet Service
-Barking Hound Village,Pet Service,30.261745754090594,-97.75893079061424,1108,"{'type': 'Point', 'coordinates': [30.261745754090594, -97.75893079061424]}",Austin,Pet Service
-Taurus Training and Doggy Play Day,Pet Service,30.25791081485934,-97.75926005886078,1528,"{'type': 'Point', 'coordinates': [30.25791081485934, -97.75926005886078]}",Austin,Pet Service
-Healthy Pet,Pet Store,30.26734,-97.752343,532,"{'type': 'Point', 'coordinates': [30.26734, -97.752343]}",Austin,Pet Store
-Tomlinson's,Pet Store,30.27702365937512,-97.75102421798358,773,"{'type': 'Point', 'coordinates': [30.27702365937512, -97.75102421798358]}",Austin,Pet Store
-C Dog Lady,Pet Service,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Pet Store
-Great Outdogs,Pet Store,30.26096478645842,-97.75750936295276,1161,"{'type': 'Point', 'coordinates': [30.26096478645842, -97.75750936295276]}",Austin,Pet Store
-Austin Urban Vet Center,Pet Store,30.26940387440138,-97.75029814179358,542,"{'type': 'Point', 'coordinates': [30.26940387440138, -97.75029814179358]}",Austin,Pet Store
-Woof Gang Bakery,Pet Store,30.27727485195775,-97.75138524797313,778,"{'type': 'Point', 'coordinates': [30.27727485195775, -97.75138524797313]}",Austin,Pet Store
-Dirty Dog - Downtown,Pet Store,30.269343154712544,-97.7501974266111,554,"{'type': 'Point', 'coordinates': [30.269343154712544, -97.7501974266111]}",Austin,Pet Store
-Midtown Groom & Board,Pet Store,30.27780592191682,-97.75205005915224,801,"{'type': 'Point', 'coordinates': [30.27780592191682, -97.75205005915224]}",Austin,Pet Store
+West Lynn Veterinary Clinic,Veterinarian,30.27655219353802,-97.7610233408046,792,"{'type': 'Point', 'coordinates': [30.27655219353802, -97.7610233408046]}",Austin,Dobby
+Highlands Pet Medical Clinic,Veterinarian,30.278146999999997,-97.751743,848,"{'type': 'Point', 'coordinates': [30.278146999999997, -97.751743]}",Austin,Dobby
+Animal Allergy and Dermatology,Veterinarian,30.277229,-97.77135,1660,"{'type': 'Point', 'coordinates': [30.277229, -97.77135]}",Austin,Dobby
+ZippiVet,Veterinarian,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Dobby
+Abraham Veterinary Clinic,Veterinarian,30.280808,-97.74347,1572,"{'type': 'Point', 'coordinates': [30.280808, -97.74347]}",Austin,Dobby
+Lake Austin Blvd Animal hospital,Veterinarian,30.277395569136342,-97.7717405251127,1702,"{'type': 'Point', 'coordinates': [30.277395569136342, -97.7717405251127]}",Austin,Dobby
+Healthy Pet,Pet Store,30.26734,-97.752343,532,"{'type': 'Point', 'coordinates': [30.26734, -97.752343]}",Austin,Dobby
+Upper Paw Urban Pet Resort,Pet Service,30.269452,-97.75019,550,"{'type': 'Point', 'coordinates': [30.269452, -97.75019]}",Austin,Dobby
+Bus Stop 4086 - 5th & West Lynn,Bus Stop,30.273689208070937,-97.76327265616915,793,"{'type': 'Point', 'coordinates': [30.273689208070937, -97.76327265616915]}",Austin,Dobby
+C Dog Lady,Pet Service,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Dobby
+Abraham Veterinary Clinic,Veterinarian,30.280808,-97.74347,1572,"{'type': 'Point', 'coordinates': [30.280808, -97.74347]}",Austin,Dobby
+Woof Gang Bakery,Pet Store,30.27727485195775,-97.75138524797313,778,"{'type': 'Point', 'coordinates': [30.27727485195775, -97.75138524797313]}",Austin,Dobby
+Invisible Fence of Southeast Texas,Construction & Landscaping,30.277859684390798,-97.75182072879514,816,"{'type': 'Point', 'coordinates': [30.277859684390798, -97.75182072879514]}",Austin,Dobby
+Barking Hound Village,Pet Service,30.261745754090594,-97.75893079061424,1108,"{'type': 'Point', 'coordinates': [30.261745754090594, -97.75893079061424]}",Austin,Dobby
+Taurus Training and Doggy Play Day,Pet Service,30.25791081485934,-97.75926005886078,1528,"{'type': 'Point', 'coordinates': [30.25791081485934, -97.75926005886078]}",Austin,Dobby
+Healthy Pet,Pet Store,30.26734,-97.752343,532,"{'type': 'Point', 'coordinates': [30.26734, -97.752343]}",Austin,Dobby
+Tomlinson's,Pet Store,30.27702365937512,-97.75102421798358,773,"{'type': 'Point', 'coordinates': [30.27702365937512, -97.75102421798358]}",Austin,Dobby
+C Dog Lady,Pet Service,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Dobby
+Great Outdogs,Pet Store,30.26096478645842,-97.75750936295276,1161,"{'type': 'Point', 'coordinates': [30.26096478645842, -97.75750936295276]}",Austin,Dobby
+Austin Urban Vet Center,Pet Store,30.26940387440138,-97.75029814179358,542,"{'type': 'Point', 'coordinates': [30.26940387440138, -97.75029814179358]}",Austin,Dobby
+Woof Gang Bakery,Pet Store,30.27727485195775,-97.75138524797313,778,"{'type': 'Point', 'coordinates': [30.27727485195775, -97.75138524797313]}",Austin,Dobby
+Dirty Dog - Downtown,Pet Store,30.269343154712544,-97.7501974266111,554,"{'type': 'Point', 'coordinates': [30.269343154712544, -97.7501974266111]}",Austin,Dobby
+Midtown Groom & Board,Pet Store,30.27780592191682,-97.75205005915224,801,"{'type': 'Point', 'coordinates': [30.27780592191682, -97.75205005915224]}",Austin,Dobby
 HirschTEC,Design Studio,53.556207,10.006941,277,"{'type': 'Point', 'coordinates': [53.556207, 10.006941]}",Hamburg,Design Studio
 Blast Radius Hamburg,Office,53.54660203642186,9.993305310488497,1307,"{'type': 'Point', 'coordinates': [53.54660203642186, 9.993305310488497]}",Hamburg,Design Studio
 Suxdorf Studios für Design GmbH,Design Studio,53.570848,9.997004,1603,"{'type': 'Point', 'coordinates': [53.570848, 9.997004]}",Hamburg,Design Studio
@@ -159,24 +159,24 @@ Amadea,Design Studio,53.577514,10.020473,2574,"{'type': 'Point', 'coordinates': 
 kopfüber : grafikdesign,Design Studio,53.54670172290223,9.996721744537354,1203,"{'type': 'Point', 'coordinates': [53.54670172290223, 9.996721744537354]}",Hamburg,Design Studio
 Lapony,Design Studio,53.564783974165884,9.981139622984646,1686,"{'type': 'Point', 'coordinates': [53.564783974165884, 9.981139622984646]}",Hamburg,Design Studio
 Studioseminar,Design Studio,53.568866,9.98105,1967,"{'type': 'Point', 'coordinates': [53.568866, 9.98105]}",Hamburg,Design Studio
-Kita Bucerius Law School,Daycare,53.55999730886004,9.984201192855835,1284,"{'type': 'Point', 'coordinates': [53.55999730886004, 9.984201192855835]}",Hamburg,Nursery School
-KiTa kinderzimmer City Süd,Nursery School,53.54424621,10.02128032,1858,"{'type': 'Point', 'coordinates': [53.54424621, 10.02128032]}",Hamburg,Nursery School
-Karo Kids,Nursery School,53.559873,9.973,2005,"{'type': 'Point', 'coordinates': [53.559873, 9.973]}",Hamburg,Nursery School
-Kindergarten St. Johannis,Nursery School,53.570326260984295,9.993018197317733,1633,"{'type': 'Point', 'coordinates': [53.570326260984295, 9.993018197317733]}",Hamburg,Nursery School
-Kita Winterhuder Weg,Nursery School,53.57134900624379,10.025297964267896,2188,"{'type': 'Point', 'coordinates': [53.57134900624379, 10.025297964267896]}",Hamburg,Nursery School
-Panama Kids,Nursery School,53.56556318094664,9.981703585017337,1702,"{'type': 'Point', 'coordinates': [53.56556318094664, 9.981703585017337]}",Hamburg,Nursery School
-Wolkenzwerge,Nursery School,53.553968559865915,9.984408847705048,1264,"{'type': 'Point', 'coordinates': [53.553968559865915, 9.984408847705048]}",Hamburg,Nursery School
-Kita Kohlhöfen,Nursery School,53.55318664683582,9.979998316839257,1569,"{'type': 'Point', 'coordinates': [53.55318664683582, 9.979998316839257]}",Hamburg,Nursery School
-Kindergarten Gängeviertel,Nursery School,53.55566060803343,9.980317789134903,1499,"{'type': 'Point', 'coordinates': [53.55566060803343, 9.980317789134903]}",Hamburg,Nursery School
-Waldorfkindergarten Hamburg-Mitte,Nursery School,53.567047,9.997293,1191,"{'type': 'Point', 'coordinates': [53.567047, 9.997293]}",Hamburg,Nursery School
-Kinderzimmer,Nursery School,53.544312553877724,9.981193787201303,2003,"{'type': 'Point', 'coordinates': [53.544312553877724, 9.981193787201303]}",Hamburg,Nursery School
-Kinderladen Murmel e.V.,Nursery School,53.558287468144705,9.982548139358972,1354,"{'type': 'Point', 'coordinates': [53.558287468144705, 9.982548139358972]}",Hamburg,Nursery School
-KiTa kinderzimmer Stubbenhuk,Preschool,53.54474247,9.98074055,1992,"{'type': 'Point', 'coordinates': [53.54474247, 9.98074055]}",Hamburg,Preschool
-Kita Hinrichsenstrasse,Daycare,53.55821593028883,10.033161203450806,2006,"{'type': 'Point', 'coordinates': [53.55821593028883, 10.033161203450806]}",Hamburg,Preschool
-KiTa Markusstrasse,Daycare,53.55135958328112,9.979220742525824,1681,"{'type': 'Point', 'coordinates': [53.55135958328112, 9.979220742525824]}",Hamburg,Preschool
-Ilse-Löwenstein-Schule,Elementary School,53.57733772719086,10.02265386542754,2625,"{'type': 'Point', 'coordinates': [53.57733772719086, 10.02265386542754]}",Hamburg,Elementary School
-Grundschule Humboldtstraße,Elementary School,53.57070876958135,10.02695828219406,2214,"{'type': 'Point', 'coordinates': [53.57070876958135, 10.02695828219406]}",Hamburg,Elementary School
-Katholische Schule Hochallee,Elementary School,53.57361164319469,9.986103047830271,2169,"{'type': 'Point', 'coordinates': [53.57361164319469, 9.986103047830271]}",Hamburg,Elementary School
+Kita Bucerius Law School,Daycare,53.55999730886004,9.984201192855835,1284,"{'type': 'Point', 'coordinates': [53.55999730886004, 9.984201192855835]}",Hamburg,School
+KiTa kinderzimmer City Süd,Nursery School,53.54424621,10.02128032,1858,"{'type': 'Point', 'coordinates': [53.54424621, 10.02128032]}",Hamburg,School
+Karo Kids,Nursery School,53.559873,9.973,2005,"{'type': 'Point', 'coordinates': [53.559873, 9.973]}",Hamburg,School
+Kindergarten St. Johannis,Nursery School,53.570326260984295,9.993018197317733,1633,"{'type': 'Point', 'coordinates': [53.570326260984295, 9.993018197317733]}",Hamburg,School
+Kita Winterhuder Weg,Nursery School,53.57134900624379,10.025297964267896,2188,"{'type': 'Point', 'coordinates': [53.57134900624379, 10.025297964267896]}",Hamburg,School
+Panama Kids,Nursery School,53.56556318094664,9.981703585017337,1702,"{'type': 'Point', 'coordinates': [53.56556318094664, 9.981703585017337]}",Hamburg,School
+Wolkenzwerge,Nursery School,53.553968559865915,9.984408847705048,1264,"{'type': 'Point', 'coordinates': [53.553968559865915, 9.984408847705048]}",Hamburg,School
+Kita Kohlhöfen,Nursery School,53.55318664683582,9.979998316839257,1569,"{'type': 'Point', 'coordinates': [53.55318664683582, 9.979998316839257]}",Hamburg,School
+Kindergarten Gängeviertel,Nursery School,53.55566060803343,9.980317789134903,1499,"{'type': 'Point', 'coordinates': [53.55566060803343, 9.980317789134903]}",Hamburg,School
+Waldorfkindergarten Hamburg-Mitte,Nursery School,53.567047,9.997293,1191,"{'type': 'Point', 'coordinates': [53.567047, 9.997293]}",Hamburg,School
+Kinderzimmer,Nursery School,53.544312553877724,9.981193787201303,2003,"{'type': 'Point', 'coordinates': [53.544312553877724, 9.981193787201303]}",Hamburg,School
+Kinderladen Murmel e.V.,Nursery School,53.558287468144705,9.982548139358972,1354,"{'type': 'Point', 'coordinates': [53.558287468144705, 9.982548139358972]}",Hamburg,School
+KiTa kinderzimmer Stubbenhuk,Preschool,53.54474247,9.98074055,1992,"{'type': 'Point', 'coordinates': [53.54474247, 9.98074055]}",Hamburg,School
+Kita Hinrichsenstrasse,Daycare,53.55821593028883,10.033161203450806,2006,"{'type': 'Point', 'coordinates': [53.55821593028883, 10.033161203450806]}",Hamburg,School
+KiTa Markusstrasse,Daycare,53.55135958328112,9.979220742525824,1681,"{'type': 'Point', 'coordinates': [53.55135958328112, 9.979220742525824]}",Hamburg,School
+Ilse-Löwenstein-Schule,Elementary School,53.57733772719086,10.02265386542754,2625,"{'type': 'Point', 'coordinates': [53.57733772719086, 10.02265386542754]}",Hamburg,School
+Grundschule Humboldtstraße,Elementary School,53.57070876958135,10.02695828219406,2214,"{'type': 'Point', 'coordinates': [53.57070876958135, 10.02695828219406]}",Hamburg,School
+Katholische Schule Hochallee,Elementary School,53.57361164319469,9.986103047830271,2169,"{'type': 'Point', 'coordinates': [53.57361164319469, 9.986103047830271]}",Hamburg,School
 Sympatient,Tech Startup,53.557572,10.00984,465,"{'type': 'Point', 'coordinates': [53.557572, 10.00984]}",Hamburg,Tech Startup
 Virtual Reality Head Quarter (VRHQ),Office,53.5427,10.001802,1579,"{'type': 'Point', 'coordinates': [53.5427, 10.001802]}",Hamburg,Tech Startup
 Next Media Accelerator,Business Center,53.543356900461994,9.99177746809437,1674,"{'type': 'Point', 'coordinates': [53.543356900461994, 9.99177746809437]}",Hamburg,Tech Startup
@@ -269,23 +269,23 @@ green lovers,Salad Place,53.54127432710081,9.987015552355325,2029,"{'type': 'Poi
 Season im Bucerius Kunst Forum,Vegetarian / Vegan Restaurant,53.55134286356518,9.992251153842286,935,"{'type': 'Point', 'coordinates': [53.55134286356518, 9.992251153842286]}",Hamburg,Vegetarian / Vegan Restaurant
 Nasch,Vegetarian / Vegan Restaurant,53.55552820181528,9.984067082405089,1254,"{'type': 'Point', 'coordinates': [53.55552820181528, 9.984067082405089]}",Hamburg,Vegetarian / Vegan Restaurant
 Loving Hut,Vegetarian / Vegan Restaurant,53.55164624655542,9.980434668815203,1595,"{'type': 'Point', 'coordinates': [53.55164624655542, 9.980434668815203]}",Hamburg,Vegetarian / Vegan Restaurant
-Kleintierpraxis Dr. A. Welz,Veterinarian,53.564749,10.018821,1369,"{'type': 'Point', 'coordinates': [53.564749, 10.018821]}",Hamburg,Veterinarian
-Kleintierpraxis Dr. Krohn,Veterinarian,53.56689922086966,10.021480636949216,1659,"{'type': 'Point', 'coordinates': [53.56689922086966, 10.021480636949216]}",Hamburg,Veterinarian
-Tierärztin + Heilpraktikerin Petra Büsken,Veterinarian,53.56591949731875,9.977918209265592,1934,"{'type': 'Point', 'coordinates': [53.56591949731875, 9.977918209265592]}",Hamburg,Veterinarian
-Tiergesundheitszentrum Pöseldorf,Veterinarian,53.568479,9.995327,1385,"{'type': 'Point', 'coordinates': [53.568479, 9.995327]}",Hamburg,Veterinarian
-Wau & Mau,Pet Service,53.553467,9.98911,987,"{'type': 'Point', 'coordinates': [53.553467, 9.98911]}",Hamburg,Pet Service
-Tierärztin Dr. Imke Voth,Pet Service,53.568572998046875,9.981362342834473,1929,"{'type': 'Point', 'coordinates': [53.568572998046875, 9.981362342834473]}",Hamburg,Pet Service
-V.I.Pets,Pet Service,53.571261196895406,9.994875644672325,1687,"{'type': 'Point', 'coordinates': [53.571261196895406, 9.994875644672325]}",Hamburg,Pet Service
-Stofftiergarten,Pet Store,53.55322935682321,10.006740608914956,478,"{'type': 'Point', 'coordinates': [53.55322935682321, 10.006740608914956]}",Hamburg,Pet Store
-Pet Shop Boyz,Pet Store,53.55932185606266,10.01229593755946,678,"{'type': 'Point', 'coordinates': [53.55932185606266, 10.01229593755946]}",Hamburg,Pet Store
-Fish-Alarm,Pet Store,53.554386,9.987747,1039,"{'type': 'Point', 'coordinates': [53.554386, 9.987747]}",Hamburg,Pet Store
-V.I.Pets,Pet Service,53.571261196895406,9.994875644672325,1687,"{'type': 'Point', 'coordinates': [53.571261196895406, 9.994875644672325]}",Hamburg,Pet Store
-feingemacht Hundefriseur,Pet Store,53.565071,10.024636,1702,"{'type': 'Point', 'coordinates': [53.565071, 10.024636]}",Hamburg,Pet Store
-Koko von Knebel,Pet Store,53.554443359375,9.987645149230957,1044,"{'type': 'Point', 'coordinates': [53.554443359375, 9.987645149230957]}",Hamburg,Pet Store
-ZgH Großer Konfi am Dammtorwall,Pet Store,53.55724,9.985905,1124,"{'type': 'Point', 'coordinates': [53.55724, 9.985905]}",Hamburg,Pet Store
-V.I.Pets,Pet Store,53.558997,10.013062,712,"{'type': 'Point', 'coordinates': [53.558997, 10.013062]}",Hamburg,Pet Store
-Wildhagen,Pet Store,53.55325,9.982395,1414,"{'type': 'Point', 'coordinates': [53.55325, 9.982395]}",Hamburg,Pet Store
-Dog's Finest Versand,Pet Store,53.55536665305795,10.014493654128486,784,"{'type': 'Point', 'coordinates': [53.55536665305795, 10.014493654128486]}",Hamburg,Pet Store
+Kleintierpraxis Dr. A. Welz,Veterinarian,53.564749,10.018821,1369,"{'type': 'Point', 'coordinates': [53.564749, 10.018821]}",Hamburg,Dobby
+Kleintierpraxis Dr. Krohn,Veterinarian,53.56689922086966,10.021480636949216,1659,"{'type': 'Point', 'coordinates': [53.56689922086966, 10.021480636949216]}",Hamburg,Dobby
+Tierärztin + Heilpraktikerin Petra Büsken,Veterinarian,53.56591949731875,9.977918209265592,1934,"{'type': 'Point', 'coordinates': [53.56591949731875, 9.977918209265592]}",Hamburg,Dobby
+Tiergesundheitszentrum Pöseldorf,Veterinarian,53.568479,9.995327,1385,"{'type': 'Point', 'coordinates': [53.568479, 9.995327]}",Hamburg,Dobby
+Wau & Mau,Pet Service,53.553467,9.98911,987,"{'type': 'Point', 'coordinates': [53.553467, 9.98911]}",Hamburg,Dobby
+Tierärztin Dr. Imke Voth,Pet Service,53.568572998046875,9.981362342834473,1929,"{'type': 'Point', 'coordinates': [53.568572998046875, 9.981362342834473]}",Hamburg,Dobby
+V.I.Pets,Pet Service,53.571261196895406,9.994875644672325,1687,"{'type': 'Point', 'coordinates': [53.571261196895406, 9.994875644672325]}",Hamburg,Dobby
+Stofftiergarten,Pet Store,53.55322935682321,10.006740608914956,478,"{'type': 'Point', 'coordinates': [53.55322935682321, 10.006740608914956]}",Hamburg,Dobby
+Pet Shop Boyz,Pet Store,53.55932185606266,10.01229593755946,678,"{'type': 'Point', 'coordinates': [53.55932185606266, 10.01229593755946]}",Hamburg,Dobby
+Fish-Alarm,Pet Store,53.554386,9.987747,1039,"{'type': 'Point', 'coordinates': [53.554386, 9.987747]}",Hamburg,Dobby
+V.I.Pets,Pet Service,53.571261196895406,9.994875644672325,1687,"{'type': 'Point', 'coordinates': [53.571261196895406, 9.994875644672325]}",Hamburg,Dobby
+feingemacht Hundefriseur,Pet Store,53.565071,10.024636,1702,"{'type': 'Point', 'coordinates': [53.565071, 10.024636]}",Hamburg,Dobby
+Koko von Knebel,Pet Store,53.554443359375,9.987645149230957,1044,"{'type': 'Point', 'coordinates': [53.554443359375, 9.987645149230957]}",Hamburg,Dobby
+ZgH Großer Konfi am Dammtorwall,Pet Store,53.55724,9.985905,1124,"{'type': 'Point', 'coordinates': [53.55724, 9.985905]}",Hamburg,Dobby
+V.I.Pets,Pet Store,53.558997,10.013062,712,"{'type': 'Point', 'coordinates': [53.558997, 10.013062]}",Hamburg,Dobby
+Wildhagen,Pet Store,53.55325,9.982395,1414,"{'type': 'Point', 'coordinates': [53.55325, 9.982395]}",Hamburg,Dobby
+Dog's Finest Versand,Pet Store,53.55536665305795,10.014493654128486,784,"{'type': 'Point', 'coordinates': [53.55536665305795, 10.014493654128486]}",Hamburg,Dobby
 Baltic 39 Studios,Design Studio,54.971929,-1.612978,366,"{'type': 'Point', 'coordinates': [54.971929, -1.612978]}",Newcastle,Design Studio
 Foundry34,Design Studio,54.98308844843246,-1.6044867561070144,1715,"{'type': 'Point', 'coordinates': [54.98308844843246, -1.6044867561070144]}",Newcastle,Design Studio
 Will Howe Creative,Design Studio,54.988073974387355,-1.6051563537789573,2213,"{'type': 'Point', 'coordinates': [54.988073974387355, -1.6051563537789573]}",Newcastle,Design Studio
@@ -305,16 +305,16 @@ Squidgy Designs,Design Studio,54.969839251195715,-1.6238414740511176,487,"{'type
 Hunter Johnstone,Design Studio,54.97987747192383,-1.5983070135116577,1649,"{'type': 'Point', 'coordinates': [54.97987747192383, -1.5983070135116577]}",Newcastle,Design Studio
 Saberlight Digital,Design Studio,54.967220306396484,-1.5948052406311035,1390,"{'type': 'Point', 'coordinates': [54.967220306396484, -1.5948052406311035]}",Newcastle,Design Studio
 RASKL Design,Design Studio,54.974375,-1.592253,1638,"{'type': 'Point', 'coordinates': [54.974375, -1.592253]}",Newcastle,Design Studio
-study room for,Preschool,54.978256,-1.607761,1141,"{'type': 'Point', 'coordinates': [54.978256, -1.607761]}",Newcastle,Preschool
-Westgate Hill Primary School,Elementary School,54.974127111325885,-1.6366992459989023,1413,"{'type': 'Point', 'coordinates': [54.974127111325885, -1.6366992459989023]}",Newcastle,Elementary School
-Wingrove Primary School,Elementary School,54.978863,-1.641887,1955,"{'type': 'Point', 'coordinates': [54.978863, -1.641887]}",Newcastle,Elementary School
-Hawthorn Primary School,Elementary School,54.968738,-1.636659,1303,"{'type': 'Point', 'coordinates': [54.968738, -1.636659]}",Newcastle,Elementary School
-Bede Community Primary,Elementary School,54.959485,-1.592504,1867,"{'type': 'Point', 'coordinates': [54.959485, -1.592504]}",Newcastle,Elementary School
-Hotspur Primary School,Elementary School,54.98067847419977,-1.588919592709965,2162,"{'type': 'Point', 'coordinates': [54.98067847419977, -1.588919592709965]}",Newcastle,Elementary School
-Caedmon Community Primary School,Elementary School,54.953101,-1.605229,1930,"{'type': 'Point', 'coordinates': [54.953101, -1.605229]}",Newcastle,Elementary School
-Moorside community primary school,Elementary School,54.97699757422019,-1.6355701362509227,1504,"{'type': 'Point', 'coordinates': [54.97699757422019, -1.6355701362509227]}",Newcastle,Elementary School
-South Street Community Primary School,Elementary School,54.95319904747435,-1.5980247031607453,2132,"{'type': 'Point', 'coordinates': [54.95319904747435, -1.5980247031607453]}",Newcastle,Elementary School
-Dunston Riverside Community Primary School,Elementary School,54.95636917614797,-1.6453441184142878,2345,"{'type': 'Point', 'coordinates': [54.95636917614797, -1.6453441184142878]}",Newcastle,Elementary School
+study room for,Preschool,54.978256,-1.607761,1141,"{'type': 'Point', 'coordinates': [54.978256, -1.607761]}",Newcastle,School
+Westgate Hill Primary School,Elementary School,54.974127111325885,-1.6366992459989023,1413,"{'type': 'Point', 'coordinates': [54.974127111325885, -1.6366992459989023]}",Newcastle,School
+Wingrove Primary School,Elementary School,54.978863,-1.641887,1955,"{'type': 'Point', 'coordinates': [54.978863, -1.641887]}",Newcastle,School
+Hawthorn Primary School,Elementary School,54.968738,-1.636659,1303,"{'type': 'Point', 'coordinates': [54.968738, -1.636659]}",Newcastle,School
+Bede Community Primary,Elementary School,54.959485,-1.592504,1867,"{'type': 'Point', 'coordinates': [54.959485, -1.592504]}",Newcastle,School
+Hotspur Primary School,Elementary School,54.98067847419977,-1.588919592709965,2162,"{'type': 'Point', 'coordinates': [54.98067847419977, -1.588919592709965]}",Newcastle,School
+Caedmon Community Primary School,Elementary School,54.953101,-1.605229,1930,"{'type': 'Point', 'coordinates': [54.953101, -1.605229]}",Newcastle,School
+Moorside community primary school,Elementary School,54.97699757422019,-1.6355701362509227,1504,"{'type': 'Point', 'coordinates': [54.97699757422019, -1.6355701362509227]}",Newcastle,School
+South Street Community Primary School,Elementary School,54.95319904747435,-1.5980247031607453,2132,"{'type': 'Point', 'coordinates': [54.95319904747435, -1.5980247031607453]}",Newcastle,School
+Dunston Riverside Community Primary School,Elementary School,54.95636917614797,-1.6453441184142878,2345,"{'type': 'Point', 'coordinates': [54.95636917614797, -1.6453441184142878]}",Newcastle,School
 EvaluAgent - i6 Business Centre,Tech Startup,54.97107,-1.620326,329,"{'type': 'Point', 'coordinates': [54.97107, -1.620326]}",Newcastle,Tech Startup
 The Amazing Group,Tech Startup,54.97130508186489,-1.611417531967163,386,"{'type': 'Point', 'coordinates': [54.97130508186489, -1.611417531967163]}",Newcastle,Tech Startup
 Givey HQ Newcastle,Tech Startup,54.970082,-1.617746,132,"{'type': 'Point', 'coordinates': [54.970082, -1.617746]}",Newcastle,Tech Startup
@@ -409,7 +409,7 @@ Sky Apple Cafe,Café,54.983663581086255,-1.5817353499883964,2729,"{'type': 'Poin
 Gringos Vegan Kitchen,Health Food Store,54.9790529,-1.5802898,2545,"{'type': 'Point', 'coordinates': [54.9790529, -1.5802898]}",Newcastle,Vegetarian / Vegan Restaurant
 Painted Elephant,Vegetarian / Vegan Restaurant,54.97484202113101,-1.610213455652714,734,"{'type': 'Point', 'coordinates': [54.97484202113101, -1.610213455652714]}",Newcastle,Vegetarian / Vegan Restaurant
 Northumbria University Sport Central,Athletics & Sports,54.97831759371752,-1.606641929665313,1183,"{'type': 'Point', 'coordinates': [54.97831759371752, -1.606641929665313]}",Newcastle,Basketball Stadium
-The Pet Stop,Pet Store,54.9743,-1.61128,647,"{'type': 'Point', 'coordinates': [54.9743, -1.61128]}",Newcastle,Pet Store
-Big Shop,Pet Store,54.972352,-1.614438,365,"{'type': 'Point', 'coordinates': [54.972352, -1.614438]}",Newcastle,Pet Store
-Robinsons,Pet Store,54.97311463420963,-1.6149015201509542,440,"{'type': 'Point', 'coordinates': [54.97311463420963, -1.6149015201509542]}",Newcastle,Pet Store
-Little Pet Store,Pet Store,54.957333050494285,-1.605060767983981,1506,"{'type': 'Point', 'coordinates': [54.957333050494285, -1.605060767983981]}",Newcastle,Pet Store
+The Pet Stop,Pet Store,54.9743,-1.61128,647,"{'type': 'Point', 'coordinates': [54.9743, -1.61128]}",Newcastle,Dobby
+Big Shop,Pet Store,54.972352,-1.614438,365,"{'type': 'Point', 'coordinates': [54.972352, -1.614438]}",Newcastle,Dobby
+Robinsons,Pet Store,54.97311463420963,-1.6149015201509542,440,"{'type': 'Point', 'coordinates': [54.97311463420963, -1.6149015201509542]}",Newcastle,Dobby
+Little Pet Store,Pet Store,54.957333050494285,-1.605060767983981,1506,"{'type': 'Point', 'coordinates': [54.957333050494285, -1.605060767983981]}",Newcastle,Dobby
