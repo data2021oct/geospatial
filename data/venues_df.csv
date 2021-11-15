@@ -1,321 +1,321 @@
-nombre,sub_category,latitud,longitud,distance,location,city,category,ponder,geometry
-Urbanspace Interiors,Design Studio,30.269045000000002,-97.75153,455,"{'type': 'Point', 'coordinates': [30.269045000000002, -97.75153]}",Austin,Design Studio,6,POINT (-97.75153 30.269045)
-Jonathan Adler,Design Studio,30.270651457745725,-97.75563459093881,68,"{'type': 'Point', 'coordinates': [30.270651457745725, -97.75563459093881]}",Austin,Design Studio,6,POINT (-97.75563459093881 30.27065145774572)
-BlkMkt Digital,Design Studio,30.270388654253324,-97.75674531173587,152,"{'type': 'Point', 'coordinates': [30.270388654253324, -97.75674531173587]}",Austin,Design Studio,6,POINT (-97.75674531173587 30.27038865425332)
-Pixel Peach,Design Studio,30.270267,-97.75677,163,"{'type': 'Point', 'coordinates': [30.270267, -97.75677]}",Austin,Design Studio,6,POINT (-97.75677 30.270267)
-Minuteman Press,Print Shop,30.273324,-97.759424,440,"{'type': 'Point', 'coordinates': [30.273324, -97.759424]}",Austin,Design Studio,6,POINT (-97.759424 30.273324)
-Bright Health,Insurance Office,30.272478000000003,-97.757561,238,"{'type': 'Point', 'coordinates': [30.272478000000003, -97.757561]}",Austin,Design Studio,6,POINT (-97.757561 30.272478)
-Gentry Gallery,Design Studio,30.271988,-97.75835,284,"{'type': 'Point', 'coordinates': [30.271988, -97.75835]}",Austin,Design Studio,6,POINT (-97.75834999999999 30.271988)
-Arete European Kitchens,Design Studio,30.273027000000003,-97.753454,279,"{'type': 'Point', 'coordinates': [30.273027000000003, -97.753454]}",Austin,Design Studio,6,POINT (-97.753454 30.273027)
-May Designs Studio,Design Studio,30.274122,-97.762491,742,"{'type': 'Point', 'coordinates': [30.274122, -97.762491]}",Austin,Design Studio,6,POINT (-97.762491 30.274122)
-StudioGee Architecture,Design Studio,30.273649215698242,-97.75865936279297,402,"{'type': 'Point', 'coordinates': [30.273649215698242, -97.75865936279297]}",Austin,Design Studio,6,POINT (-97.75865936279297 30.27364921569824)
-Hack Studio,Design Studio,30.274418,-97.762763,780,"{'type': 'Point', 'coordinates': [30.274418, -97.762763]}",Austin,Design Studio,6,POINT (-97.76276300000001 30.274418)
-DANG! Studios,Design Studio,30.2764835357666,-97.74900817871094,854,"{'type': 'Point', 'coordinates': [30.2764835357666, -97.74900817871094]}",Austin,Design Studio,6,POINT (-97.74900817871094 30.2764835357666)
-Danuvox Studios,Design Studio,30.279086959735135,-97.75789669756223,900,"{'type': 'Point', 'coordinates': [30.279086959735135, -97.75789669756223]}",Austin,Design Studio,6,POINT (-97.75789669756223 30.27908695973514)
-The Martin House,Preschool,30.274393,-97.760895,623,"{'type': 'Point', 'coordinates': [30.274393, -97.760895]}",Austin,School,15,POINT (-97.760895 30.274393)
-Pease Elementary,Elementary School,30.274782003099872,-97.74826702164712,799,"{'type': 'Point', 'coordinates': [30.274782003099872, -97.74826702164712]}",Austin,School,15,POINT (-97.74826702164712 30.27478200309987)
-Mathews Elementary School,Elementary School,30.278495372719583,-97.76129259928938,978,"{'type': 'Point', 'coordinates': [30.278495372719583, -97.76129259928938]}",Austin,School,15,POINT (-97.76129259928938 30.27849537271958)
-Tasktop,Tech Startup,30.271439653457044,-97.75455336037079,94,"{'type': 'Point', 'coordinates': [30.271439653457044, -97.75455336037079]}",Austin,Tech Startup,4,POINT (-97.75455336037079 30.27143965345704)
-DFJ Mercury Austin HQ,Tech Startup,30.275662540917835,-97.75843790845195,564,"{'type': 'Point', 'coordinates': [30.275662540917835, -97.75843790845195]}",Austin,Tech Startup,4,POINT (-97.75843790845195 30.27566254091784)
-Union POS,Tech Startup,30.273803,-97.758091,376,"{'type': 'Point', 'coordinates': [30.273803, -97.758091]}",Austin,Tech Startup,4,POINT (-97.75809099999999 30.273803)
-Lunar Collective,Tech Startup,30.267177,-97.744803,1125,"{'type': 'Point', 'coordinates': [30.267177, -97.744803]}",Austin,Tech Startup,4,POINT (-97.744803 30.267177)
-Umbel,Tech Startup,30.266565999999997,-97.752669,589,"{'type': 'Point', 'coordinates': [30.266565999999997, -97.752669]}",Austin,Tech Startup,4,POINT (-97.752669 30.266566)
-Brain+Trust Partners,Tech Startup,30.265892,-97.749415,837,"{'type': 'Point', 'coordinates': [30.265892, -97.749415]}",Austin,Tech Startup,4,POINT (-97.749415 30.265892)
-Silverton,Tech Startup,30.273941999999998,-97.748306,755,"{'type': 'Point', 'coordinates': [30.273941999999998, -97.748306]}",Austin,Tech Startup,4,POINT (-97.748306 30.273942)
-Square Root,Tech Startup,30.273697,-97.761317,620,"{'type': 'Point', 'coordinates': [30.273697, -97.761317]}",Austin,Tech Startup,4,POINT (-97.76131700000001 30.273697)
-Digital Turbine,Tech Startup,30.265259,-97.74991,858,"{'type': 'Point', 'coordinates': [30.265259, -97.74991]}",Austin,Tech Startup,4,POINT (-97.74991 30.265259)
-thoughtbot,Tech Startup,30.274716,-97.762911,808,"{'type': 'Point', 'coordinates': [30.274716, -97.762911]}",Austin,Tech Startup,4,POINT (-97.762911 30.274716)
-eDoorways,Tech Startup,30.269061,-97.753712,300,"{'type': 'Point', 'coordinates': [30.269061, -97.753712]}",Austin,Tech Startup,4,POINT (-97.75371199999999 30.269061)
-Qcue Headquarters,Tech Startup,30.272009000000004,-97.757663,222,"{'type': 'Point', 'coordinates': [30.272009000000004, -97.757663]}",Austin,Tech Startup,4,POINT (-97.75766299999999 30.272009)
-Civitas Learning Inc. HQ,Tech Startup,30.27138239892707,-97.75811791419983,250,"{'type': 'Point', 'coordinates': [30.27138239892707, -97.75811791419983]}",Austin,Tech Startup,4,POINT (-97.75811791419983 30.27138239892707)
-TourGigs,Tech Startup,30.272825629863963,-97.7578330259658,282,"{'type': 'Point', 'coordinates': [30.272825629863963, -97.7578330259658]}",Austin,Tech Startup,4,POINT (-97.75783302596579 30.27282562986396)
-Written,Tech Startup,30.271511,-97.758053,245,"{'type': 'Point', 'coordinates': [30.271511, -97.758053]}",Austin,Tech Startup,4,POINT (-97.758053 30.271511)
-Favor Delivery,Tech Startup,30.275040713465334,-97.76363974539463,887,"{'type': 'Point', 'coordinates': [30.275040713465334, -97.76363974539463]}",Austin,Tech Startup,4,POINT (-97.76363974539463 30.27504071346533)
-Handshakez,Tech Startup,30.268431002261316,-97.7453863328599,1023,"{'type': 'Point', 'coordinates': [30.268431002261316, -97.7453863328599]}",Austin,Tech Startup,4,POINT (-97.74538633285989 30.26843100226132)
-Code for America Austin Headquarters #cfaATX,Tech Startup,30.264907836914062,-97.74727630615234,1061,"{'type': 'Point', 'coordinates': [30.264907836914062, -97.74727630615234]}",Austin,Tech Startup,4,POINT (-97.74727630615234 30.26490783691406)
-Datafiniti,Tech Startup,30.27378716359225,-97.74973658963454,623,"{'type': 'Point', 'coordinates': [30.27378716359225, -97.74973658963454]}",Austin,Tech Startup,4,POINT (-97.74973658963454 30.27378716359225)
-Waterfall,Tech Startup,30.27499202954598,-97.76368771989007,888,"{'type': 'Point', 'coordinates': [30.27499202954598, -97.76368771989007]}",Austin,Tech Startup,4,POINT (-97.76368771989007 30.27499202954598)
-SimplyTapp,Tech Startup,30.26569175720215,-97.74656677246094,1060,"{'type': 'Point', 'coordinates': [30.26569175720215, -97.74656677246094]}",Austin,Tech Startup,4,POINT (-97.74656677246094 30.26569175720215)
-MyVidster,Tech Startup,30.268418,-97.751681,485,"{'type': 'Point', 'coordinates': [30.268418, -97.751681]}",Austin,Tech Startup,4,POINT (-97.751681 30.268418)
-White Lion,Tech Startup,30.270362334772322,-97.74800202973971,729,"{'type': 'Point', 'coordinates': [30.270362334772322, -97.74800202973971]}",Austin,Tech Startup,4,POINT (-97.74800202973971 30.27036233477232)
-Toopher,Tech Startup,30.275662,-97.76511500000001,1044,"{'type': 'Point', 'coordinates': [30.275662, -97.76511500000001]}",Austin,Tech Startup,4,POINT (-97.76511500000001 30.275662)
-Subject Matter,Tech Startup,30.275528,-97.764628,996,"{'type': 'Point', 'coordinates': [30.275528, -97.764628]}",Austin,Tech Startup,4,POINT (-97.764628 30.275528)
-AppTight Austin,Tech Startup,30.262998,-97.757993,949,"{'type': 'Point', 'coordinates': [30.262998, -97.757993]}",Austin,Tech Startup,4,POINT (-97.757993 30.262998)
-Paymetric,Tech Startup,30.26466549049134,-97.7478956555246,1037,"{'type': 'Point', 'coordinates': [30.26466549049134, -97.7478956555246]}",Austin,Tech Startup,4,POINT (-97.7478956555246 30.26466549049134)
-burks graphics,Tech Startup,30.270372883158053,-97.75054831360536,487,"{'type': 'Point', 'coordinates': [30.270372883158053, -97.75054831360536]}",Austin,Tech Startup,4,POINT (-97.75054831360536 30.27037288315805)
-RunOptimized,Advertising Agency,30.27476903857545,-97.75111198425293,576,"{'type': 'Point', 'coordinates': [30.27476903857545, -97.75111198425293]}",Austin,Tech Startup,4,POINT (-97.75111198425293 30.27476903857545)
-Razorfish,Office,30.26901893916689,-97.74551465469186,993,"{'type': 'Point', 'coordinates': [30.26901893916689, -97.74551465469186]}",Austin,Tech Startup,4,POINT (-97.74551465469186 30.26901893916689)
-Starbucks,Coffee Shop,30.269783,-97.753914,225,"{'type': 'Point', 'coordinates': [30.269783, -97.753914]}",Austin,Coffee Shop,7,POINT (-97.75391399999999 30.269783)
-Starbucks,Coffee Shop,30.26585756712895,-97.7463083781941,1070,"{'type': 'Point', 'coordinates': [30.26585756712895, -97.7463083781941]}",Austin,Coffee Shop,7,POINT (-97.7463083781941 30.26585756712895)
-Starbucks,Coffee Shop,30.261258698741642,-97.75796442738695,1137,"{'type': 'Point', 'coordinates': [30.261258698741642, -97.75796442738695]}",Austin,Coffee Shop,7,POINT (-97.75796442738695 30.26125869874164)
-Austin Train Station - Amtrak (AUS),Train Station,30.269559478737243,-97.75686073732146,228,"{'type': 'Point', 'coordinates': [30.269559478737243, -97.75686073732146]}",Austin,Train Station,8,POINT (-97.75686073732146 30.26955947873724)
-24 Diner,Diner,30.271858001953817,-97.7539821602583,162,"{'type': 'Point', 'coordinates': [30.271858001953817, -97.7539821602583]}",Austin,Nightlife Spot,9,POINT (-97.7539821602583 30.27185800195382)
-Z'Tejas Mexican Restaurant and Grill,Mexican Restaurant,30.272471,-97.755781,137,"{'type': 'Point', 'coordinates': [30.272471, -97.755781]}",Austin,Nightlife Spot,9,POINT (-97.755781 30.272471)
-Better Half Coffee & Cocktails,Café,30.27140520790601,-97.75854622093502,291,"{'type': 'Point', 'coordinates': [30.27140520790601, -97.75854622093502]}",Austin,Nightlife Spot,9,POINT (-97.75854622093502 30.27140520790601)
-The Grove Wine Bar & Kitchen - Downtown,Wine Bar,30.270575556202783,-97.751098561664,431,"{'type': 'Point', 'coordinates': [30.270575556202783, -97.751098561664]}",Austin,Nightlife Spot,9,POINT (-97.75109856166399 30.27057555620278)
-Tiniest Bar In Texas,Bar,30.269667271100275,-97.7530157587751,298,"{'type': 'Point', 'coordinates': [30.269667271100275, -97.7530157587751]}",Austin,Nightlife Spot,9,POINT (-97.75301575877511 30.26966727110027)
-The Codependent,Cocktail Bar,30.267467,-97.75072,625,"{'type': 'Point', 'coordinates': [30.267467, -97.75072]}",Austin,Nightlife Spot,9,POINT (-97.75072 30.267467)
-Devil May Care,Lounge,30.269570892546344,-97.74749958518441,793,"{'type': 'Point', 'coordinates': [30.269570892546344, -97.74749958518441]}",Austin,Nightlife Spot,9,POINT (-97.74749958518441 30.26957089254634)
-Perfect Strangers,Bar,30.266953,-97.748094,859,"{'type': 'Point', 'coordinates': [30.266953, -97.748094]}",Austin,Nightlife Spot,9,POINT (-97.74809399999999 30.266953)
-Hold Out Brewing,Brewery,30.271392822265625,-97.75900268554688,335,"{'type': 'Point', 'coordinates': [30.271392822265625, -97.75900268554688]}",Austin,Nightlife Spot,9,POINT (-97.75900268554688 30.27139282226562)
-Chuy's Tex-Mex,Mexican Restaurant,30.263844580302678,-97.76333212742121,1116,"{'type': 'Point', 'coordinates': [30.263844580302678, -97.76333212742121]}",Austin,Nightlife Spot,9,POINT (-97.76333212742121 30.26384458030268)
-The Peacock,Mediterranean Restaurant,30.266044,-97.750168,775,"{'type': 'Point', 'coordinates': [30.266044, -97.750168]}",Austin,Nightlife Spot,9,POINT (-97.750168 30.266044)
-Mean Eyed Cat,Bar,30.27463586030961,-97.76505121297244,990,"{'type': 'Point', 'coordinates': [30.27463586030961, -97.76505121297244]}",Austin,Nightlife Spot,9,POINT (-97.76505121297244 30.27463586030961)
-Lavaca Street Bar & Grill,Bar,30.267113408163553,-97.74572607073826,1048,"{'type': 'Point', 'coordinates': [30.267113408163553, -97.74572607073826]}",Austin,Nightlife Spot,9,POINT (-97.74572607073826 30.26711340816355)
-The Tavern,Sports Bar,30.277131812274142,-97.75125780669028,771,"{'type': 'Point', 'coordinates': [30.277131812274142, -97.75125780669028]}",Austin,Nightlife Spot,9,POINT (-97.75125780669028 30.27713181227414)
-Irene's,Diner,30.27011315821582,-97.75119363696481,434,"{'type': 'Point', 'coordinates': [30.27011315821582, -97.75119363696481]}",Austin,Nightlife Spot,9,POINT (-97.75119363696481 30.27011315821582)
-Shoal Creek Saloon,Sports Bar,30.274262889031363,-97.75240270260736,448,"{'type': 'Point', 'coordinates': [30.274262889031363, -97.75240270260736]}",Austin,Nightlife Spot,9,POINT (-97.75240270260736 30.27426288903136)
-Goldie’s,Lounge,30.266053,-97.749919,790,"{'type': 'Point', 'coordinates': [30.266053, -97.749919]}",Austin,Nightlife Spot,9,POINT (-97.74991900000001 30.266053)
-Whiskey Tango Foxtrot Icehouse,Bar,30.269775,-97.749836,570,"{'type': 'Point', 'coordinates': [30.269775, -97.749836]}",Austin,Nightlife Spot,9,POINT (-97.749836 30.269775)
-Dogwood Austin,Bar,30.26997575698497,-97.75028555950259,522,"{'type': 'Point', 'coordinates': [30.26997575698497, -97.75028555950259]}",Austin,Nightlife Spot,9,POINT (-97.75028555950259 30.26997575698497)
-Barton Springs Saloon,Dive Bar,30.26123519946251,-97.75872627638807,1157,"{'type': 'Point', 'coordinates': [30.26123519946251, -97.75872627638807]}",Austin,Nightlife Spot,9,POINT (-97.75872627638807 30.26123519946251)
-Buford's,Bar,30.27003431487473,-97.74958764016608,586,"{'type': 'Point', 'coordinates': [30.27003431487473, -97.74958764016608]}",Austin,Nightlife Spot,9,POINT (-97.74958764016608 30.27003431487473)
-Greenlight Social,Nightclub,30.270305520883838,-97.75034788324817,508,"{'type': 'Point', 'coordinates': [30.270305520883838, -97.75034788324817]}",Austin,Nightlife Spot,9,POINT (-97.75034788324817 30.27030552088384)
-Parlor and Yard,Sports Bar,30.269586926671902,-97.74872062849724,679,"{'type': 'Point', 'coordinates': [30.269586926671902, -97.74872062849724]}",Austin,Nightlife Spot,9,POINT (-97.74872062849724 30.2695869266719)
-Rustic Tap,Bar,30.269532889564395,-97.74914530679351,642,"{'type': 'Point', 'coordinates': [30.269532889564395, -97.74914530679351]}",Austin,Nightlife Spot,9,POINT (-97.74914530679351 30.2695328895644)
-Violet Crown Cinema,Indie Movie Theater,30.26552397008005,-97.7481887385356,950,"{'type': 'Point', 'coordinates': [30.26552397008005, -97.7481887385356]}",Austin,Nightlife Spot,9,POINT (-97.7481887385356 30.26552397008005)
-Carpenters Hall,Restaurant,30.262191856255196,-97.7587578320245,1056,"{'type': 'Point', 'coordinates': [30.262191856255196, -97.7587578320245]}",Austin,Nightlife Spot,9,POINT (-97.7587578320245 30.2621918562552)
-Little Woodrow's,Bar,30.269732264039575,-97.74822516062437,721,"{'type': 'Point', 'coordinates': [30.269732264039575, -97.74822516062437]}",Austin,Nightlife Spot,9,POINT (-97.74822516062437 30.26973226403958)
-Donn's Depot,Dive Bar,30.273781,-97.763382,806,"{'type': 'Point', 'coordinates': [30.273781, -97.763382]}",Austin,Nightlife Spot,9,POINT (-97.76338199999999 30.273781)
-Star Bar,Bar,30.269791799232685,-97.74850510965844,693,"{'type': 'Point', 'coordinates': [30.269791799232685, -97.74850510965844]}",Austin,Nightlife Spot,9,POINT (-97.74850510965844 30.26979179923269)
-The Roosevelt Room,Cocktail Bar,30.267842,-97.746242,969,"{'type': 'Point', 'coordinates': [30.267842, -97.746242]}",Austin,Nightlife Spot,9,POINT (-97.746242 30.267842)
-Next Level Burger,Vegetarian / Vegan Restaurant,30.270605676440674,-97.75312889553437,240,"{'type': 'Point', 'coordinates': [30.270605676440674, -97.75312889553437]}",Austin,Vegetarian / Vegan Restaurant,18,POINT (-97.75312889553437 30.27060567644067)
-Juiceland,Juice Bar,30.270983,-97.753333,212,"{'type': 'Point', 'coordinates': [30.270983, -97.753333]}",Austin,Vegetarian / Vegan Restaurant,18,POINT (-97.753333 30.270983)
-Juice Land,Smoothie Shop,30.266818,-97.749766,741,"{'type': 'Point', 'coordinates': [30.266818, -97.749766]}",Austin,Vegetarian / Vegan Restaurant,18,POINT (-97.74976599999999 30.266818)
-Crazy Tortilla,Food Truck,30.26975,-97.749301,620,"{'type': 'Point', 'coordinates': [30.26975, -97.749301]}",Austin,Vegetarian / Vegan Restaurant,18,POINT (-97.749301 30.26975)
-True Food Kitchen,New American Restaurant,30.267194,-97.752134,557,"{'type': 'Point', 'coordinates': [30.267194, -97.752134]}",Austin,Vegetarian / Vegan Restaurant,18,POINT (-97.752134 30.267194)
-Casa de Luz,Vegetarian / Vegan Restaurant,30.26412621398494,-97.76180412774343,997,"{'type': 'Point', 'coordinates': [30.26412621398494, -97.76180412774343]}",Austin,Vegetarian / Vegan Restaurant,18,POINT (-97.76180412774343 30.26412621398494)
-West Lynn Veterinary Clinic,Veterinarian,30.27655219353802,-97.7610233408046,792,"{'type': 'Point', 'coordinates': [30.27655219353802, -97.7610233408046]}",Austin,Dobby,20,POINT (-97.7610233408046 30.27655219353802)
-ZippiVet,Veterinarian,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Dobby,20,POINT (-97.75719100000001 30.263205)
-Highlands Pet Medical Clinic,Veterinarian,30.278146999999997,-97.751743,848,"{'type': 'Point', 'coordinates': [30.278146999999997, -97.751743]}",Austin,Dobby,20,POINT (-97.751743 30.278147)
-Healthy Pet,Pet Store,30.26734,-97.752343,532,"{'type': 'Point', 'coordinates': [30.26734, -97.752343]}",Austin,Dobby,20,POINT (-97.752343 30.26734)
-Upper Paw Urban Pet Resort,Pet Service,30.269452,-97.75019,550,"{'type': 'Point', 'coordinates': [30.269452, -97.75019]}",Austin,Dobby,20,POINT (-97.75019 30.269452)
-C Dog Lady,Pet Service,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Dobby,20,POINT (-97.75719100000001 30.263205)
-Invisible Fence of Southeast Texas,Construction & Landscaping,30.277859684390798,-97.75182072879514,816,"{'type': 'Point', 'coordinates': [30.277859684390798, -97.75182072879514]}",Austin,Dobby,20,POINT (-97.75182072879514 30.2778596843908)
-Bus Stop 4086 - 5th & West Lynn,Bus Stop,30.273689208070937,-97.76327265616915,793,"{'type': 'Point', 'coordinates': [30.273689208070937, -97.76327265616915]}",Austin,Dobby,20,POINT (-97.76327265616915 30.27368920807094)
-Barking Hound Village,Pet Service,30.261745754090594,-97.75893079061424,1108,"{'type': 'Point', 'coordinates': [30.261745754090594, -97.75893079061424]}",Austin,Dobby,20,POINT (-97.75893079061424 30.26174575409059)
-Woof Gang Bakery,Pet Store,30.27727485195775,-97.75138524797313,778,"{'type': 'Point', 'coordinates': [30.27727485195775, -97.75138524797313]}",Austin,Dobby,20,POINT (-97.75138524797313 30.27727485195775)
-Healthy Pet,Pet Store,30.26734,-97.752343,532,"{'type': 'Point', 'coordinates': [30.26734, -97.752343]}",Austin,Dobby,20,POINT (-97.752343 30.26734)
-Austin Urban Vet Center,Pet Store,30.26940387440138,-97.75029814179358,542,"{'type': 'Point', 'coordinates': [30.26940387440138, -97.75029814179358]}",Austin,Dobby,20,POINT (-97.75029814179358 30.26940387440138)
-Tomlinson's,Pet Store,30.27702365937512,-97.75102421798358,773,"{'type': 'Point', 'coordinates': [30.27702365937512, -97.75102421798358]}",Austin,Dobby,20,POINT (-97.75102421798358 30.27702365937512)
-Great Outdogs,Pet Store,30.26096478645842,-97.75750936295276,1161,"{'type': 'Point', 'coordinates': [30.26096478645842, -97.75750936295276]}",Austin,Dobby,20,POINT (-97.75750936295276 30.26096478645842)
-C Dog Lady,Pet Service,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Dobby,20,POINT (-97.75719100000001 30.263205)
-Woof Gang Bakery,Pet Store,30.27727485195775,-97.75138524797313,778,"{'type': 'Point', 'coordinates': [30.27727485195775, -97.75138524797313]}",Austin,Dobby,20,POINT (-97.75138524797313 30.27727485195775)
-Dirty Dog - Downtown,Pet Store,30.269343154712544,-97.7501974266111,554,"{'type': 'Point', 'coordinates': [30.269343154712544, -97.7501974266111]}",Austin,Dobby,20,POINT (-97.75019742661109 30.26934315471254)
-Midtown Groom & Board,Pet Store,30.27780592191682,-97.75205005915224,801,"{'type': 'Point', 'coordinates': [30.27780592191682, -97.75205005915224]}",Austin,Dobby,20,POINT (-97.75205005915224 30.27780592191682)
-HirschTEC,Design Studio,53.556207,10.006941,277,"{'type': 'Point', 'coordinates': [53.556207, 10.006941]}",Hamburg,Design Studio,6,POINT (10.006941 53.556207)
-Design Forum,Design Studio,53.55549899688691,9.989682664486997,887,"{'type': 'Point', 'coordinates': [53.55549899688691, 9.989682664486997]}",Hamburg,Design Studio,6,POINT (9.989682664486997 53.55549899688691)
-The Shack,Recording Studio,53.54858507232179,9.99938838064678,951,"{'type': 'Point', 'coordinates': [53.54858507232179, 9.99938838064678]}",Hamburg,Design Studio,6,POINT (9.99938838064678 53.54858507232179)
-(smow),Furniture / Home Store,53.54866,10.002866,914,"{'type': 'Point', 'coordinates': [53.54866, 10.002866]}",Hamburg,Design Studio,6,POINT (10.002866 53.54866)
-Makery.,Design Studio,53.553883,10.016137,936,"{'type': 'Point', 'coordinates': [53.553883, 10.016137]}",Hamburg,Design Studio,6,POINT (10.016137 53.553883)
-Design Forum,Design Studio,53.55145385509746,9.996272188767664,745,"{'type': 'Point', 'coordinates': [53.55145385509746, 9.996272188767664]}",Hamburg,Design Studio,6,POINT (9.996272188767664 53.55145385509746)
-Monki Store,Design Studio,53.554658,9.99526,562,"{'type': 'Point', 'coordinates': [53.554658, 9.99526]}",Hamburg,Design Studio,6,POINT (9.99526 53.554658)
-1 2 3,Design Studio,53.553381971619714,9.990595011885828,901,"{'type': 'Point', 'coordinates': [53.553381971619714, 9.990595011885828]}",Hamburg,Design Studio,6,POINT (9.990595011885828 53.55338197161971)
-Cedon,Design Studio,53.553035036166634,9.989599488847476,977,"{'type': 'Point', 'coordinates': [53.553035036166634, 9.989599488847476]}",Hamburg,Design Studio,6,POINT (9.989599488847476 53.55303503616663)
-Stilwerke,Design Studio,53.56372,9.999922,787,"{'type': 'Point', 'coordinates': [53.56372, 9.999922]}",Hamburg,Design Studio,6,POINT (9.999922 53.56372)
-Atelier Figurart,Design Studio,53.55663,10.013691,714,"{'type': 'Point', 'coordinates': [53.55663, 10.013691]}",Hamburg,Design Studio,6,POINT (10.013691 53.55663)
-Dibbern,Design Studio,53.553678353738675,9.987155397457894,1100,"{'type': 'Point', 'coordinates': [53.553678353738675, 9.987155397457894]}",Hamburg,Design Studio,6,POINT (9.987155397457894 53.55367835373868)
-Siteway,Office,53.55429174516101,9.988262057304382,1009,"{'type': 'Point', 'coordinates': [53.55429174516101, 9.988262057304382]}",Hamburg,Design Studio,6,POINT (9.988262057304382 53.55429174516101)
-Mossapour,Furniture / Home Store,53.55419411427837,9.998586950661362,412,"{'type': 'Point', 'coordinates': [53.55419411427837, 9.998586950661362]}",Hamburg,Design Studio,6,POINT (9.998586950661362 53.55419411427837)
-Atelier Nicolaisen Klomp,Design Studio,53.556706,10.013092,674,"{'type': 'Point', 'coordinates': [53.556706, 10.013092]}",Hamburg,Design Studio,6,POINT (10.013092 53.556706)
-Dental Design Reichert GmbH,Design Studio,53.55849,10.008502,411,"{'type': 'Point', 'coordinates': [53.55849, 10.008502]}",Hamburg,Design Studio,6,POINT (10.008502 53.55849)
-J&B Intermedia,Design Studio,53.553625612278566,9.992093344122793,800,"{'type': 'Point', 'coordinates': [53.553625612278566, 9.992093344122793]}",Hamburg,Design Studio,6,POINT (9.992093344122793 53.55362561227857)
-Sabine Funk Design,Design Studio,53.557556066231086,9.992761618228371,674,"{'type': 'Point', 'coordinates': [53.557556066231086, 9.992761618228371]}",Hamburg,Design Studio,6,POINT (9.992761618228371 53.55755606623109)
-Atelier Christian von der Heide,Design Studio,53.556849,10.009347,426,"{'type': 'Point', 'coordinates': [53.556849, 10.009347]}",Hamburg,Design Studio,6,POINT (10.009347 53.556849)
-R.I.C.O. Interior,Design Studio,53.54835,9.996807,1030,"{'type': 'Point', 'coordinates': [53.54835, 9.996807]}",Hamburg,Design Studio,6,POINT (9.996807 53.54835)
-a+l partner,Design Studio,53.555133,10.006347,299,"{'type': 'Point', 'coordinates': [53.555133, 10.006347]}",Hamburg,Design Studio,6,POINT (10.006347 53.555133)
-RED LION,Office,53.55407663625435,9.989136457443237,961,"{'type': 'Point', 'coordinates': [53.55407663625435, 9.989136457443237]}",Hamburg,Design Studio,6,POINT (9.989136457443237 53.55407663625435)
-MMPG,IT Services,53.55084900066045,9.988623107461756,1158,"{'type': 'Point', 'coordinates': [53.55084900066045, 9.988623107461756]}",Hamburg,Design Studio,6,POINT (9.988623107461756 53.55084900066045)
-elbblut GmbH Büro für Druck & Gestaltung,Design Studio,53.549493,10.0032,821,"{'type': 'Point', 'coordinates': [53.549493, 10.0032]}",Hamburg,Design Studio,6,POINT (10.0032 53.549493)
-Institute of Design,Design Studio,53.55766242829918,9.989445575803032,894,"{'type': 'Point', 'coordinates': [53.55766242829918, 9.989445575803032]}",Hamburg,Design Studio,6,POINT (9.989445575803032 53.55766242829918)
-Sympatient,Tech Startup,53.557572,10.00984,465,"{'type': 'Point', 'coordinates': [53.557572, 10.00984]}",Hamburg,Tech Startup,4,POINT (10.00984 53.557572)
-Monopol für Stromerzeugnisse e.V. -Zweigstelle Hamburg Mitte,Tech Startup,53.551632,10.000322,607,"{'type': 'Point', 'coordinates': [53.551632, 10.000322]}",Hamburg,Tech Startup,4,POINT (10.000322 53.551632)
-Carmio Internet GmbH HQ,Tech Startup,53.549766,9.995893,916,"{'type': 'Point', 'coordinates': [53.549766, 9.995893]}",Hamburg,Tech Startup,4,POINT (9.995893000000001 53.549766)
-oysterbay GmbH,Tech Startup,53.556275,9.991302,769,"{'type': 'Point', 'coordinates': [53.556275, 9.991302]}",Hamburg,Tech Startup,4,POINT (9.991301999999999 53.556275)
-SnipSell GmbH,Tech Startup,53.55560695585027,9.990581406476853,826,"{'type': 'Point', 'coordinates': [53.55560695585027, 9.990581406476853]}",Hamburg,Tech Startup,4,POINT (9.990581406476853 53.55560695585027)
-Bergwerk.io,Tech Startup,53.554349,9.999383,364,"{'type': 'Point', 'coordinates': [53.554349, 9.999383]}",Hamburg,Tech Startup,4,POINT (9.999383 53.554349)
-Just Software Headquarters,Tech Startup,53.55334460735321,9.987387657165527,1098,"{'type': 'Point', 'coordinates': [53.55334460735321, 9.987387657165527]}",Hamburg,Tech Startup,4,POINT (9.987387657165527 53.55334460735321)
-kleidoo,Tech Startup,53.552491779497885,10.001925794342583,491,"{'type': 'Point', 'coordinates': [53.552491779497885, 10.001925794342583]}",Hamburg,Tech Startup,4,POINT (10.00192579434258 53.55249177949788)
-kwizzme.com,Tech Startup,53.55239774457607,10.000524799545992,522,"{'type': 'Point', 'coordinates': [53.55239774457607, 10.000524799545992]}",Hamburg,Tech Startup,4,POINT (10.00052479954599 53.55239774457607)
-Computerrock Branch,Tech Startup,53.549204,9.999155,888,"{'type': 'Point', 'coordinates': [53.549204, 9.999155]}",Hamburg,Tech Startup,4,POINT (9.999155 53.549204)
-Zag,Tech Startup,53.55358928433574,10.003484219396052,367,"{'type': 'Point', 'coordinates': [53.55358928433574, 10.003484219396052]}",Hamburg,Tech Startup,4,POINT (10.00348421939605 53.55358928433574)
-42 & Sohn,Tech Startup,53.553810597702146,10.002757053256381,341,"{'type': 'Point', 'coordinates': [53.553810597702146, 10.002757053256381]}",Hamburg,Tech Startup,4,POINT (10.00275705325638 53.55381059770215)
-Office 21,Tech Startup,53.54952426666667,9.999540725,847,"{'type': 'Point', 'coordinates': [53.54952426666667, 9.999540725]}",Hamburg,Tech Startup,4,POINT (9.999540724999999 53.54952426666667)
-Lotsen Für Digitales@Hamburg,Tech Startup,53.561358048642184,9.988998563129114,1046,"{'type': 'Point', 'coordinates': [53.561358048642184, 9.988998563129114]}",Hamburg,Tech Startup,4,POINT (9.988998563129114 53.56135804864218)
-Someday CoVentures,Tech Startup,53.552758,10.012381,776,"{'type': 'Point', 'coordinates': [53.552758, 10.012381]}",Hamburg,Tech Startup,4,POINT (10.012381 53.552758)
-Style Net Media GmbH,Tech Startup,53.551527,9.99688,716,"{'type': 'Point', 'coordinates': [53.551527, 9.99688]}",Hamburg,Tech Startup,4,POINT (9.996880000000001 53.551527)
-abgeordnetenwatch.de,Tech Startup,53.564629,9.995068,1006,"{'type': 'Point', 'coordinates': [53.564629, 9.995068]}",Hamburg,Tech Startup,4,POINT (9.995068 53.564629)
-Feelgood,Tech Startup,53.5552547074554,9.986425597843354,1104,"{'type': 'Point', 'coordinates': [53.5552547074554, 9.986425597843354]}",Hamburg,Tech Startup,4,POINT (9.986425597843354 53.5552547074554)
-BUDDENBOHM & SOEHNE,Tech Startup,53.55681579966773,10.00686866259398,262,"{'type': 'Point', 'coordinates': [53.55681579966773, 10.00686866259398]}",Hamburg,Tech Startup,4,POINT (10.00686866259398 53.55681579966773)
-Interactive Pioneers Nordfront,Tech Startup,53.55857867184783,10.008860238438196,437,"{'type': 'Point', 'coordinates': [53.55857867184783, 10.008860238438196]}",Hamburg,Tech Startup,4,POINT (10.0088602384382 53.55857867184783)
-campa group,Tech Startup,53.554837,9.990208,869,"{'type': 'Point', 'coordinates': [53.554837, 9.990208]}",Hamburg,Tech Startup,4,POINT (9.990208000000001 53.554837)
-tagnewmedia,Tech Startup,53.54933439014154,9.999510475363957,868,"{'type': 'Point', 'coordinates': [53.54933439014154, 9.999510475363957]}",Hamburg,Tech Startup,4,POINT (9.999510475363957 53.54933439014154)
-Spryker,Tech Startup,53.552316,10.004468,517,"{'type': 'Point', 'coordinates': [53.552316, 10.004468]}",Hamburg,Tech Startup,4,POINT (10.004468 53.552316)
-Dynport,Tech Startup,53.554424,9.987635,1045,"{'type': 'Point', 'coordinates': [53.554424, 9.987635]}",Hamburg,Tech Startup,4,POINT (9.987634999999999 53.554424)
-Joblift,Tech Startup,53.548344,9.995614,1064,"{'type': 'Point', 'coordinates': [53.548344, 9.995614]}",Hamburg,Tech Startup,4,POINT (9.995614 53.548344)
-red6 enterprise software GmbH,Tech Startup,53.562688416041965,9.99589975624077,795,"{'type': 'Point', 'coordinates': [53.562688416041965, 9.99589975624077]}",Hamburg,Tech Startup,4,POINT (9.995899756240769 53.56268841604196)
-Publicis Pixelpark,Advertising Agency,53.554099396912804,9.989048874395403,966,"{'type': 'Point', 'coordinates': [53.554099396912804, 9.989048874395403]}",Hamburg,Tech Startup,4,POINT (9.989048874395403 53.5540993969128)
-Starbucks,Coffee Shop,53.552863,10.005558,479,"{'type': 'Point', 'coordinates': [53.552863, 10.005558]}",Hamburg,Coffee Shop,7,POINT (10.005558 53.552863)
-Starbucks,Coffee Shop,53.55506782558954,9.990986279762279,813,"{'type': 'Point', 'coordinates': [53.55506782558954, 9.990986279762279]}",Hamburg,Coffee Shop,7,POINT (9.990986279762279 53.55506782558954)
-Starbucks,Coffee Shop,53.55125630451121,10.000930394719328,638,"{'type': 'Point', 'coordinates': [53.55125630451121, 10.000930394719328]}",Hamburg,Coffee Shop,7,POINT (10.00093039471933 53.55125630451121)
-Starbucks,Coffee Shop,53.551692837684364,9.995605945587158,751,"{'type': 'Point', 'coordinates': [53.551692837684364, 9.995605945587158]}",Hamburg,Coffee Shop,7,POINT (9.995605945587158 53.55169283768436)
-Hamburg Hauptbahnhof,Train Station,53.55271266099564,10.006946325302124,534,"{'type': 'Point', 'coordinates': [53.55271266099564, 10.006946325302124]}",Hamburg,Train Station,8,POINT (10.00694632530212 53.55271266099564)
-Gleis 7/8,Platform,53.55250281378347,10.007038082301793,558,"{'type': 'Point', 'coordinates': [53.55250281378347, 10.007038082301793]}",Hamburg,Train Station,8,POINT (10.00703808230179 53.55250281378347)
-Gleis 5/6,Platform,53.5526505019954,10.00704843410421,544,"{'type': 'Point', 'coordinates': [53.5526505019954, 10.00704843410421]}",Hamburg,Train Station,8,POINT (10.00704843410421 53.5526505019954)
-Gleis 1/2,Platform,53.55242498961892,10.007097613935375,567,"{'type': 'Point', 'coordinates': [53.55242498961892, 10.007097613935375]}",Hamburg,Train Station,8,POINT (10.00709761393538 53.55242498961892)
-Gleis 13/14,Platform,53.55214727956492,10.006377696990967,574,"{'type': 'Point', 'coordinates': [53.55214727956492, 10.006377696990967]}",Hamburg,Train Station,8,POINT (10.00637769699097 53.55214727956492)
-Gleis 11/12,Platform,53.55256324430746,10.006875387444758,547,"{'type': 'Point', 'coordinates': [53.55256324430746, 10.006875387444758]}",Hamburg,Train Station,8,POINT (10.00687538744476 53.55256324430746)
-Gleis 3/4,Platform,53.5524819536498,10.007100242510404,562,"{'type': 'Point', 'coordinates': [53.5524819536498, 10.007100242510404]}",Hamburg,Train Station,8,POINT (10.0071002425104 53.5524819536498)
-Bahnhof Hamburg Dammtor,Train Station,53.560949,9.989468,997,"{'type': 'Point', 'coordinates': [53.560949, 9.989468]}",Hamburg,Train Station,8,POINT (9.989468 53.560949)
-Gleis 3/4,Platform,53.56108986813567,9.989479582376301,1003,"{'type': 'Point', 'coordinates': [53.56108986813567, 9.989479582376301]}",Hamburg,Train Station,8,POINT (9.989479582376301 53.56108986813567)
-Atlantic Bar,Hotel Bar,53.55715552979616,10.004598471348444,116,"{'type': 'Point', 'coordinates': [53.55715552979616, 10.004598471348444]}",Hamburg,Nightlife Spot,9,POINT (10.00459847134844 53.55715552979616)
-Fontenay Bar,Hotel Bar,53.565352,9.998762,982,"{'type': 'Point', 'coordinates': [53.565352, 9.998762]}",Hamburg,Nightlife Spot,9,POINT (9.998761999999999 53.565352)
-Maliks,Bar,53.55513016152191,10.009639263153076,486,"{'type': 'Point', 'coordinates': [53.55513016152191, 10.009639263153076]}",Hamburg,Nightlife Spot,9,POINT (10.00963926315308 53.55513016152191)
-Alsterlagune,Bar,53.55345753,9.99666302,560,"{'type': 'Point', 'coordinates': [53.55345753, 9.99666302]}",Hamburg,Nightlife Spot,9,POINT (9.99666302 53.55345753)
-Tipsy Baker Bar,Cocktail Bar,53.558003772071494,9.989643983040544,885,"{'type': 'Point', 'coordinates': [53.558003772071494, 9.989643983040544]}",Hamburg,Nightlife Spot,9,POINT (9.989643983040544 53.55800377207149)
-barca - an der Alster,Restaurant,53.55851356439605,10.005615648642788,256,"{'type': 'Point', 'coordinates': [53.55851356439605, 10.005615648642788]}",Hamburg,Nightlife Spot,9,POINT (10.00561564864279 53.55851356439605)
-Toms Saloon,Gay Bar,53.55354602960898,10.01455843448639,855,"{'type': 'Point', 'coordinates': [53.55354602960898, 10.01455843448639]}",Hamburg,Nightlife Spot,9,POINT (10.01455843448639 53.55354602960898)
-S.L.U.T. Club Hamburg,Gay Bar,53.55625651371782,10.014248290028432,753,"{'type': 'Point', 'coordinates': [53.55625651371782, 10.014248290028432]}",Hamburg,Nightlife Spot,9,POINT (10.01424829002843 53.55625651371782)
-Emil's,Lounge,53.554752233884926,10.008351802825928,430,"{'type': 'Point', 'coordinates': [53.554752233884926, 10.008351802825928]}",Hamburg,Nightlife Spot,9,POINT (10.00835180282593 53.55475223388493)
-Neumanns Bistro & Weinbar,Wine Bar,53.55905732198548,10.013134181499481,719,"{'type': 'Point', 'coordinates': [53.55905732198548, 10.013134181499481]}",Hamburg,Nightlife Spot,9,POINT (10.01313418149948 53.55905732198548)
-Frau Möller,Pub,53.55885232822514,10.013241684062628,718,"{'type': 'Point', 'coordinates': [53.55885232822514, 10.013241684062628]}",Hamburg,Nightlife Spot,9,POINT (10.01324168406263 53.55885232822514)
-Casino Esplanade,Casino,53.55834757525646,9.989784616915077,882,"{'type': 'Point', 'coordinates': [53.55834757525646, 9.989784616915077]}",Hamburg,Nightlife Spot,9,POINT (9.989784616915077 53.55834757525646)
-ALEX,Café,53.55410512292068,9.992044506946822,781,"{'type': 'Point', 'coordinates': [53.55410512292068, 9.992044506946822]}",Hamburg,Nightlife Spot,9,POINT (9.992044506946822 53.55410512292068)
-Nagel,German Restaurant,53.5527240668893,10.0087611941861,602,"{'type': 'Point', 'coordinates': [53.5527240668893, 10.0087611941861]}",Hamburg,Nightlife Spot,9,POINT (10.0087611941861 53.5527240668893)
-Veuve Clicquot,Wine Bar,53.55293926695286,9.991467358334763,873,"{'type': 'Point', 'coordinates': [53.55293926695286, 9.991467358334763]}",Hamburg,Nightlife Spot,9,POINT (9.991467358334763 53.55293926695286)
-M&V Bar,Gay Bar,53.55596000863462,10.00940877160969,442,"{'type': 'Point', 'coordinates': [53.55596000863462, 10.00940877160969]}",Hamburg,Nightlife Spot,9,POINT (10.00940877160969 53.55596000863462)
-Hofbräu Wirtshaus Esplanade,Bavarian Restaurant,53.5577477621795,9.992048068875492,724,"{'type': 'Point', 'coordinates': [53.5577477621795, 9.992048068875492]}",Hamburg,Nightlife Spot,9,POINT (9.992048068875492 53.5577477621795)
-Hofbräu Wirtshaus am Speersort,Bavarian Restaurant,53.54954609888491,9.99783878103036,881,"{'type': 'Point', 'coordinates': [53.54954609888491, 9.99783878103036]}",Hamburg,Nightlife Spot,9,POINT (9.99783878103036 53.54954609888491)
-Le Lion,Cocktail Bar,53.55021,9.994526,925,"{'type': 'Point', 'coordinates': [53.55021, 9.994526]}",Hamburg,Nightlife Spot,9,POINT (9.994526 53.55021)
-Brooklyn Burger Bar,Burger Joint,53.54866568794967,9.996709782288885,1001,"{'type': 'Point', 'coordinates': [53.54866568794967, 9.996709782288885]}",Hamburg,Nightlife Spot,9,POINT (9.996709782288885 53.54866568794967)
-Cafe Ponton,Café,53.552284815355605,9.990624282470778,959,"{'type': 'Point', 'coordinates': [53.552284815355605, 9.990624282470778]}",Hamburg,Nightlife Spot,9,POINT (9.990624282470778 53.55228481535561)
-Sands,Cocktail Bar,53.55966656105084,9.989644860506747,930,"{'type': 'Point', 'coordinates': [53.55966656105084, 9.989644860506747]}",Hamburg,Nightlife Spot,9,POINT (9.989644860506747 53.55966656105084)
-Irish Pub in the Fleetenkieker,Irish Pub,53.54868564944223,9.992608090274839,1137,"{'type': 'Point', 'coordinates': [53.54868564944223, 9.992608090274839]}",Hamburg,Nightlife Spot,9,POINT (9.992608090274839 53.54868564944223)
-Campari Lounge,Hotel Bar,53.561095875044764,10.014862709122966,920,"{'type': 'Point', 'coordinates': [53.561095875044764, 10.014862709122966]}",Hamburg,Nightlife Spot,9,POINT (10.01486270912297 53.56109587504476)
-Paulaner's,German Restaurant,53.55346418308647,10.008375801154623,524,"{'type': 'Point', 'coordinates': [53.55346418308647, 10.008375801154623]}",Hamburg,Nightlife Spot,9,POINT (10.00837580115462 53.55346418308647)
-Porta Nova,Italian Restaurant,53.547336402246124,9.996939184964836,1132,"{'type': 'Point', 'coordinates': [53.547336402246124, 9.996939184964836]}",Hamburg,Nightlife Spot,9,POINT (9.996939184964836 53.54733640224612)
-Meyer Lansky's,Cocktail Bar,53.55577763282695,9.987495084635597,1025,"{'type': 'Point', 'coordinates': [53.55577763282695, 9.987495084635597]}",Hamburg,Nightlife Spot,9,POINT (9.987495084635597 53.55577763282695)
-Das Parlament,German Restaurant,53.55007390261796,9.992970981821431,1002,"{'type': 'Point', 'coordinates': [53.55007390261796, 9.992970981821431]}",Hamburg,Nightlife Spot,9,POINT (9.992970981821431 53.55007390261796)
-Bodos Bootssteg,Café,53.56730541671698,10.001756884745618,1163,"{'type': 'Point', 'coordinates': [53.56730541671698, 10.001756884745618]}",Hamburg,Nightlife Spot,9,POINT (10.00175688474562 53.56730541671698)
-Kyti Voo Cafe & Bar,Bar,53.558264058771435,10.01244243741571,649,"{'type': 'Point', 'coordinates': [53.558264058771435, 10.01244243741571]}",Hamburg,Nightlife Spot,9,POINT (10.01244243741571 53.55826405877144)
-Chay,Vegetarian / Vegan Restaurant,53.55256,10.00183,485,"{'type': 'Point', 'coordinates': [53.55256, 10.00183]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (10.00183 53.55256)
-An Vegan House,Vegetarian / Vegan Restaurant,53.558748,10.01275,683,"{'type': 'Point', 'coordinates': [53.558748, 10.01275]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (10.01275 53.558748)
-Vincent Vegan,Food Truck,53.55236757438734,10.005884565092641,538,"{'type': 'Point', 'coordinates': [53.55236757438734, 10.005884565092641]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (10.00588456509264 53.55236757438734)
-Genusshelden,German Restaurant,53.55125303129627,10.004006624221802,629,"{'type': 'Point', 'coordinates': [53.55125303129627, 10.004006624221802]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (10.0040066242218 53.55125303129627)
-Vincent Vegan,Vegetarian / Vegan Restaurant,53.552185,10.006057,562,"{'type': 'Point', 'coordinates': [53.552185, 10.006057]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (10.006057 53.552185)
-Season im Bucerius Kunst Forum,Vegetarian / Vegan Restaurant,53.55134286356518,9.992251153842286,935,"{'type': 'Point', 'coordinates': [53.55134286356518, 9.992251153842286]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (9.992251153842286 53.55134286356518)
-My Poké,Poke Place,53.551815,9.992709,878,"{'type': 'Point', 'coordinates': [53.551815, 9.992709]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (9.992709 53.551815)
-green lovers,Salad Place,53.54964691726431,9.99365752313051,1010,"{'type': 'Point', 'coordinates': [53.54964691726431, 9.99365752313051]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (9.99365752313051 53.54964691726431)
-Café Koppel,Vegetarian / Vegan Restaurant,53.558304295674674,10.011780244257638,608,"{'type': 'Point', 'coordinates': [53.558304295674674, 10.011780244257638]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (10.01178024425764 53.55830429567467)
-Season,Vegetarian / Vegan Restaurant,53.552589156560394,9.99413473279138,750,"{'type': 'Point', 'coordinates': [53.552589156560394, 9.99413473279138]}",Hamburg,Vegetarian / Vegan Restaurant,18,POINT (9.99413473279138 53.55258915656039)
-Wau & Mau,Pet Service,53.553467,9.98911,987,"{'type': 'Point', 'coordinates': [53.553467, 9.98911]}",Hamburg,Dobby,20,POINT (9.98911 53.553467)
-Stofftiergarten,Pet Store,53.55322935682321,10.006740608914956,478,"{'type': 'Point', 'coordinates': [53.55322935682321, 10.006740608914956]}",Hamburg,Dobby,20,POINT (10.00674060891496 53.55322935682321)
-Pet Shop Boyz,Pet Store,53.55932185606266,10.01229593755946,678,"{'type': 'Point', 'coordinates': [53.55932185606266, 10.01229593755946]}",Hamburg,Dobby,20,POINT (10.01229593755946 53.55932185606266)
-Fish-Alarm,Pet Store,53.554386,9.987747,1039,"{'type': 'Point', 'coordinates': [53.554386, 9.987747]}",Hamburg,Dobby,20,POINT (9.987747000000001 53.554386)
-Dog's Finest Versand,Pet Store,53.55536665305795,10.014493654128486,784,"{'type': 'Point', 'coordinates': [53.55536665305795, 10.014493654128486]}",Hamburg,Dobby,20,POINT (10.01449365412849 53.55536665305795)
-Koko von Knebel,Pet Store,53.554443359375,9.987645149230957,1044,"{'type': 'Point', 'coordinates': [53.554443359375, 9.987645149230957]}",Hamburg,Dobby,20,POINT (9.987645149230957 53.554443359375)
-V.I.Pets,Pet Store,53.558997,10.013062,712,"{'type': 'Point', 'coordinates': [53.558997, 10.013062]}",Hamburg,Dobby,20,POINT (10.013062 53.558997)
-Baltic 39 Studios,Design Studio,54.971929,-1.612978,366,"{'type': 'Point', 'coordinates': [54.971929, -1.612978]}",Newcastle,Design Studio,6,POINT (-1.612978 54.971929)
-Akenside Studios,Design Studio,54.9697,-1.609137,459,"{'type': 'Point', 'coordinates': [54.9697, -1.609137]}",Newcastle,Design Studio,6,POINT (-1.609137 54.9697)
-Magnetic Print and Design,Design Studio,54.97256441571117,-1.6089606285095215,596,"{'type': 'Point', 'coordinates': [54.97256441571117, -1.6089606285095215]}",Newcastle,Design Studio,6,POINT (-1.608960628509521 54.97256441571117)
-Bang on print,Design Studio,54.97031655033557,-1.6159489261744966,121,"{'type': 'Point', 'coordinates': [54.97031655033557, -1.6159489261744966]}",Newcastle,Design Studio,6,POINT (-1.615948926174497 54.97031655033557)
-Electrik Sheep,Design Studio,54.969819,-1.619147,194,"{'type': 'Point', 'coordinates': [54.969819, -1.619147]}",Newcastle,Design Studio,6,POINT (-1.619147 54.969819)
-Komodo Digital,Design Studio,54.96994712563321,-1.6176502780226871,117,"{'type': 'Point', 'coordinates': [54.96994712563321, -1.6176502780226871]}",Newcastle,Design Studio,6,POINT (-1.617650278022687 54.96994712563321)
-Printing.com,Design Studio,54.967967368896836,-1.621319237866355,351,"{'type': 'Point', 'coordinates': [54.967967368896836, -1.621319237866355]}",Newcastle,Design Studio,6,POINT (-1.621319237866355 54.96796736889684)
-CCP Games UK,Tech Startup,54.96488632677147,-1.607371842949401,747,"{'type': 'Point', 'coordinates': [54.96488632677147, -1.607371842949401]}",Newcastle,Design Studio,6,POINT (-1.607371842949401 54.96488632677147)
-deadgood,Design Studio,54.97267150878906,-1.6092842817306519,588,"{'type': 'Point', 'coordinates': [54.97267150878906, -1.6092842817306519]}",Newcastle,Design Studio,6,POINT (-1.609284281730652 54.97267150878906)
-Squidgy Designs,Design Studio,54.969839251195715,-1.6238414740511176,487,"{'type': 'Point', 'coordinates': [54.969839251195715, -1.6238414740511176]}",Newcastle,Design Studio,6,POINT (-1.623841474051118 54.96983925119572)
-tempertemper Web Design Ltd.,Design Studio,54.968471,-1.612229,272,"{'type': 'Point', 'coordinates': [54.968471, -1.612229]}",Newcastle,Design Studio,6,POINT (-1.612229 54.968471)
-Enigma Interactive,Office,54.96802882899835,-1.609093839210092,478,"{'type': 'Point', 'coordinates': [54.96802882899835, -1.609093839210092]}",Newcastle,Design Studio,6,POINT (-1.609093839210092 54.96802882899835)
-EvaluAgent - i6 Business Centre,Tech Startup,54.97107,-1.620326,329,"{'type': 'Point', 'coordinates': [54.97107, -1.620326]}",Newcastle,Tech Startup,4,POINT (-1.620326 54.97107)
-The Amazing Group,Tech Startup,54.97130508186489,-1.611417531967163,386,"{'type': 'Point', 'coordinates': [54.97130508186489, -1.611417531967163]}",Newcastle,Tech Startup,4,POINT (-1.611417531967163 54.97130508186489)
-Blooie HQ,Tech Startup,54.970029,-1.617983,139,"{'type': 'Point', 'coordinates': [54.970029, -1.617983]}",Newcastle,Tech Startup,4,POINT (-1.617983 54.970029)
-Givey HQ Newcastle,Tech Startup,54.970082,-1.617746,132,"{'type': 'Point', 'coordinates': [54.970082, -1.617746]}",Newcastle,Tech Startup,4,POINT (-1.617746 54.970082)
-Matchchat HQ,Tech Startup,54.96983337402344,-1.6178795099258423,121,"{'type': 'Point', 'coordinates': [54.96983337402344, -1.6178795099258423]}",Newcastle,Tech Startup,4,POINT (-1.617879509925842 54.96983337402344)
-"Medisas, Inc.",Tech Startup,54.96955108642578,-1.618043065071106,117,"{'type': 'Point', 'coordinates': [54.96955108642578, -1.618043065071106]}",Newcastle,Tech Startup,4,POINT (-1.618043065071106 54.96955108642578)
-Tint Towers,Tech Startup,54.96967659500577,-1.6139545099033301,156,"{'type': 'Point', 'coordinates': [54.96967659500577, -1.6139545099033301]}",Newcastle,Tech Startup,4,POINT (-1.61395450990333 54.96967659500577)
-Little Red Door HQ,Tech Startup,54.969972,-1.617665,120,"{'type': 'Point', 'coordinates': [54.969972, -1.617665]}",Newcastle,Tech Startup,4,POINT (-1.617665 54.969972)
-Atlas HQ,Tech Startup,54.97055272017778,-1.612122264055366,303,"{'type': 'Point', 'coordinates': [54.97055272017778, -1.612122264055366]}",Newcastle,Tech Startup,4,POINT (-1.612122264055366 54.97055272017778)
-CCP Games UK,Tech Startup,54.96488632677147,-1.607371842949401,747,"{'type': 'Point', 'coordinates': [54.96488632677147, -1.607371842949401]}",Newcastle,Tech Startup,4,POINT (-1.607371842949401 54.96488632677147)
-Amazing Towers,Tech Startup,54.9662550336138,-1.6033869981765747,888,"{'type': 'Point', 'coordinates': [54.9662550336138, -1.6033869981765747]}",Newcastle,Tech Startup,4,POINT (-1.603386998176575 54.9662550336138)
-band-x Media,Tech Startup,54.97311019180688,-1.6124930477756332,494,"{'type': 'Point', 'coordinates': [54.97311019180688, -1.6124930477756332]}",Newcastle,Tech Startup,4,POINT (-1.612493047775633 54.97311019180688)
-Beatnode,Tech Startup,54.96842749485894,-1.6077856997500668,550,"{'type': 'Point', 'coordinates': [54.96842749485894, -1.6077856997500668]}",Newcastle,Tech Startup,4,POINT (-1.607785699750067 54.96842749485894)
-Old media Towers,Tech Startup,54.97460882470729,-1.601729393005371,1105,"{'type': 'Point', 'coordinates': [54.97460882470729, -1.601729393005371]}",Newcastle,Tech Startup,4,POINT (-1.601729393005371 54.97460882470729)
-Moltin,Tech Startup,54.973489,-1.608465,687,"{'type': 'Point', 'coordinates': [54.973489, -1.608465]}",Newcastle,Tech Startup,4,POINT (-1.608465 54.973489)
-SoPost,Tech Startup,54.97103548976758,-1.6203530860699336,328,"{'type': 'Point', 'coordinates': [54.97103548976758, -1.6203530860699336]}",Newcastle,Tech Startup,4,POINT (-1.620353086069934 54.97103548976758)
-Leaf Music,Tech Startup,54.967929,-1.624497,544,"{'type': 'Point', 'coordinates': [54.967929, -1.624497]}",Newcastle,Tech Startup,4,POINT (-1.624497 54.967929)
-ff! Head Office,Tech Startup,54.97522754417878,-1.6114492855875022,734,"{'type': 'Point', 'coordinates': [54.97522754417878, -1.6114492855875022]}",Newcastle,Tech Startup,4,POINT (-1.611449285587502 54.97522754417878)
-Cloud Data Service,Tech Startup,54.97108646487632,-1.6200757026672363,317,"{'type': 'Point', 'coordinates': [54.97108646487632, -1.6200757026672363]}",Newcastle,Tech Startup,4,POINT (-1.620075702667236 54.97108646487632)
-Zerolight,Tech Startup,54.969619,-1.604692,741,"{'type': 'Point', 'coordinates': [54.969619, -1.604692]}",Newcastle,Tech Startup,4,POINT (-1.604692 54.969619)
-HurstDEV HQ,Tech Startup,54.964252,-1.605896,865,"{'type': 'Point', 'coordinates': [54.964252, -1.605896]}",Newcastle,Tech Startup,4,POINT (-1.605896 54.964252)
-The Roundhouse,Tech Startup,54.967682,-1.621263,362,"{'type': 'Point', 'coordinates': [54.967682, -1.621263]}",Newcastle,Tech Startup,4,POINT (-1.621263 54.967682)
-Ki-Media,Tech Startup,54.97200399500226,-1.6184112438274696,336,"{'type': 'Point', 'coordinates': [54.97200399500226, -1.6184112438274696]}",Newcastle,Tech Startup,4,POINT (-1.61841124382747 54.97200399500226)
-ignite100 - The Studio,Tech Startup,54.972478176765975,-1.6049254804393522,810,"{'type': 'Point', 'coordinates': [54.972478176765975, -1.6049254804393522]}",Newcastle,Tech Startup,4,POINT (-1.604925480439352 54.97247817676597)
-Fluid Pixel Offices,Tech Startup,54.972700706950704,-1.6080609694643935,651,"{'type': 'Point', 'coordinates': [54.972700706950704, -1.6080609694643935]}",Newcastle,Tech Startup,4,POINT (-1.608060969464393 54.9727007069507)
-Buy.at,Office,54.97065538563751,-1.6124475002288818,291,"{'type': 'Point', 'coordinates': [54.97065538563751, -1.6124475002288818]}",Newcastle,Tech Startup,4,POINT (-1.612447500228882 54.97065538563751)
-The App Chaps,Tech Startup,54.96388067565385,-1.605699062347412,901,"{'type': 'Point', 'coordinates': [54.96388067565385, -1.605699062347412]}",Newcastle,Tech Startup,4,POINT (-1.605699062347412 54.96388067565385)
-hedgehog lab,Tech Startup,54.9723442,-1.6051071,793,"{'type': 'Point', 'coordinates': [54.9723442, -1.6051071]}",Newcastle,Tech Startup,4,POINT (-1.6051071 54.9723442)
-Starbucks,Coffee Shop,54.969435,-1.616766,37,"{'type': 'Point', 'coordinates': [54.969435, -1.616766]}",Newcastle,Coffee Shop,7,POINT (-1.616766 54.969435)
-Starbucks,Coffee Shop,54.97478,-1.615004,622,"{'type': 'Point', 'coordinates': [54.97478, -1.615004]}",Newcastle,Coffee Shop,7,POINT (-1.615004 54.97478)
-Starbucks,Coffee Shop,54.972522,-1.617541,374,"{'type': 'Point', 'coordinates': [54.972522, -1.617541]}",Newcastle,Coffee Shop,7,POINT (-1.617541 54.972522)
-Starbucks,Coffee Shop,54.976985,-1.613368,882,"{'type': 'Point', 'coordinates': [54.976985, -1.613368]}",Newcastle,Coffee Shop,7,POINT (-1.613368 54.976985)
-Starbucks,Coffee Shop,54.97426016548611,-1.622321871197673,679,"{'type': 'Point', 'coordinates': [54.97426016548611, -1.622321871197673]}",Newcastle,Coffee Shop,7,POINT (-1.622321871197673 54.97426016548611)
-Starbucks,Coffee Shop,54.970542,-1.600355,1027,"{'type': 'Point', 'coordinates': [54.970542, -1.600355]}",Newcastle,Coffee Shop,7,POINT (-1.600355 54.970542)
-Newcastle Central Railway Station (NCL),Train Station,54.96848569794475,-1.6173415167971168,107,"{'type': 'Point', 'coordinates': [54.96848569794475, -1.6173415167971168]}",Newcastle,Train Station,8,POINT (-1.617341516797117 54.96848569794475)
-Long Stay Car Park,Train Station,54.96848711749249,-1.6171030715218615,98,"{'type': 'Point', 'coordinates': [54.96848711749249, -1.6171030715218615]}",Newcastle,Train Station,8,POINT (-1.617103071521862 54.96848711749249)
-Platform 4,Platform,54.968116055576694,-1.6165692872501791,126,"{'type': 'Point', 'coordinates': [54.968116055576694, -1.6165692872501791]}",Newcastle,Train Station,8,POINT (-1.616569287250179 54.96811605557669)
-Platform 3,Platform,54.96839709100208,-1.6172541221222725,112,"{'type': 'Point', 'coordinates': [54.96839709100208, -1.6172541221222725]}",Newcastle,Train Station,8,POINT (-1.617254122122272 54.96839709100208)
-Platform 2,Platform,54.96844042926115,-1.6172645144488291,108,"{'type': 'Point', 'coordinates': [54.96844042926115, -1.6172645144488291]}",Newcastle,Train Station,8,POINT (-1.617264514448829 54.96844042926115)
-Platform 1,Platform,54.96847014605542,-1.615824855005821,90,"{'type': 'Point', 'coordinates': [54.96847014605542, -1.615824855005821]}",Newcastle,Train Station,8,POINT (-1.615824855005821 54.96847014605542)
-Platform 7,Platform,54.968001966307774,-1.61628373956545,137,"{'type': 'Point', 'coordinates': [54.968001966307774, -1.61628373956545]}",Newcastle,Train Station,8,POINT (-1.61628373956545 54.96800196630777)
-Platform 12,Platform,54.968261755787594,-1.6182014653451129,164,"{'type': 'Point', 'coordinates': [54.968261755787594, -1.6182014653451129]}",Newcastle,Train Station,8,POINT (-1.618201465345113 54.96826175578759)
-Platform 6,Platform,54.96792311022943,-1.6171365631954446,156,"{'type': 'Point', 'coordinates': [54.96792311022943, -1.6171365631954446]}",Newcastle,Train Station,8,POINT (-1.617136563195445 54.96792311022943)
-Platform 10,Platform,54.968264,-1.618068,157,"{'type': 'Point', 'coordinates': [54.968264, -1.618068]}",Newcastle,Train Station,8,POINT (-1.618068 54.968264)
-Platform 2,Platform,54.969042,-1.616764,37,"{'type': 'Point', 'coordinates': [54.969042, -1.616764]}",Newcastle,Train Station,8,POINT (-1.616764 54.969042)
-Manors Railway Station (MAS),Train Station,54.97284425155188,-1.605302887961489,808,"{'type': 'Point', 'coordinates': [54.97284425155188, -1.605302887961489]}",Newcastle,Train Station,8,POINT (-1.605302887961489 54.97284425155188)
-Platform 1,Platform,54.97760009765625,-1.6143165826797485,939,"{'type': 'Point', 'coordinates': [54.97760009765625, -1.6143165826797485]}",Newcastle,Train Station,8,POINT (-1.614316582679749 54.97760009765625)
-Platform 2,Platform,54.977364,-1.613441,922,"{'type': 'Point', 'coordinates': [54.977364, -1.613441]}",Newcastle,Train Station,8,POINT (-1.613441 54.977364)
-Platform 2,Platform,54.96206119555039,-1.6043290292260932,1105,"{'type': 'Point', 'coordinates': [54.96206119555039, -1.6043290292260932]}",Newcastle,Train Station,8,POINT (-1.604329029226093 54.96206119555039)
-The Underground Platform 1,Platform,54.97046661376953,-1.6024068593978882,896,"{'type': 'Point', 'coordinates': [54.97046661376953, -1.6024068593978882]}",Newcastle,Train Station,8,POINT (-1.602406859397888 54.97046661376953)
-The Centurion,Bar,54.969117518006406,-1.616408320082125,15,"{'type': 'Point', 'coordinates': [54.969117518006406, -1.616408320082125]}",Newcastle,Nightlife Spot,9,POINT (-1.616408320082125 54.96911751800641)
-Newcastle Tap,Pub,54.969505,-1.61571,46,"{'type': 'Point', 'coordinates': [54.969505, -1.61571]}",Newcastle,Nightlife Spot,9,POINT (-1.61571 54.969505)
-The Mile Castle (Lloyd's No. 1 Bar),Bar,54.970219585550886,-1.6162108994592255,109,"{'type': 'Point', 'coordinates': [54.970219585550886, -1.6162108994592255]}",Newcastle,Nightlife Spot,9,POINT (-1.616210899459225 54.97021958555089)
-The Victoria Comet,Bar,54.96920750082269,-1.6174837516712213,76,"{'type': 'Point', 'coordinates': [54.96920750082269, -1.6174837516712213]}",Newcastle,Nightlife Spot,9,POINT (-1.617483751671221 54.96920750082269)
-Gunner Tavern,Pub,54.969061,-1.618081,116,"{'type': 'Point', 'coordinates': [54.969061, -1.618081]}",Newcastle,Nightlife Spot,9,POINT (-1.618081 54.969061)
-Head of Steam,Bar,54.969520290428434,-1.6155256631584982,57,"{'type': 'Point', 'coordinates': [54.969520290428434, -1.6155256631584982]}",Newcastle,Nightlife Spot,9,POINT (-1.615525663158498 54.96952029042843)
-BrewDog Newcastle,Beer Bar,54.969840150969624,-1.6096193037527584,430,"{'type': 'Point', 'coordinates': [54.969840150969624, -1.6096193037527584]}",Newcastle,Nightlife Spot,9,POINT (-1.609619303752758 54.96984015096962)
-The Bacchus,Pub,54.97235968826644,-1.6111115233244588,479,"{'type': 'Point', 'coordinates': [54.97235968826644, -1.6111115233244588]}",Newcastle,Nightlife Spot,9,POINT (-1.611111523324459 54.97235968826644)
-Tyneside Cinema,Indie Movie Theater,54.97386874713539,-1.611925458244147,585,"{'type': 'Point', 'coordinates': [54.97386874713539, -1.611925458244147]}",Newcastle,Nightlife Spot,9,POINT (-1.611925458244147 54.97386874713539)
-360 Sky Lounge,Lounge,54.969729,-1.623351,455,"{'type': 'Point', 'coordinates': [54.969729, -1.623351]}",Newcastle,Nightlife Spot,9,POINT (-1.623351 54.969729)
-Pitcher & Piano,Bar,54.97029103238662,-1.5996032926323693,1072,"{'type': 'Point', 'coordinates': [54.97029103238662, -1.5996032926323693]}",Newcastle,Nightlife Spot,9,POINT (-1.599603292632369 54.97029103238662)
-The Quayside (Wetherspoon),Pub,54.967399200959136,-1.6101131200439938,444,"{'type': 'Point', 'coordinates': [54.967399200959136, -1.6101131200439938]}",Newcastle,Nightlife Spot,9,POINT (-1.610113120043994 54.96739920095914)
-The Bridge Tavern,Pub,54.96937311479045,-1.6076953155439062,548,"{'type': 'Point', 'coordinates': [54.96937311479045, -1.6076953155439062]}",Newcastle,Nightlife Spot,9,POINT (-1.607695315543906 54.96937311479045)
-The Bridge Hotel,Pub,54.968583789390046,-1.610310368291018,388,"{'type': 'Point', 'coordinates': [54.968583789390046, -1.610310368291018]}",Newcastle,Nightlife Spot,9,POINT (-1.610310368291018 54.96858378939005)
-The Alchemist,Cocktail Bar,54.9735781224777,-1.6142403816233941,500,"{'type': 'Point', 'coordinates': [54.9735781224777, -1.6142403816233941]}",Newcastle,Nightlife Spot,9,POINT (-1.614240381623394 54.9735781224777)
-The Yard,Gay Bar,54.96724661757272,-1.6220659017562864,431,"{'type': 'Point', 'coordinates': [54.96724661757272, -1.6220659017562864]}",Newcastle,Nightlife Spot,9,POINT (-1.622065901756286 54.96724661757272)
-No 28,Bar,54.97337811806937,-1.6147243860766605,471,"{'type': 'Point', 'coordinates': [54.97337811806937, -1.6147243860766605]}",Newcastle,Nightlife Spot,9,POINT (-1.61472438607666 54.97337811806937)
-Errant Brewery,Brewery,54.965904,-1.6203704,454,"{'type': 'Point', 'coordinates': [54.965904, -1.6203704]}",Newcastle,Nightlife Spot,9,POINT (-1.6203704 54.965904)
-The Delta Lounge,Beer Bar,54.968422,-1.6130413,226,"{'type': 'Point', 'coordinates': [54.968422, -1.6130413]}",Newcastle,Nightlife Spot,9,POINT (-1.6130413 54.968422)
-Lady Grey's,Pub,54.97272790476629,-1.611217111571325,505,"{'type': 'Point', 'coordinates': [54.97272790476629, -1.611217111571325]}",Newcastle,Nightlife Spot,9,POINT (-1.611217111571325 54.97272790476629)
-The Town Mouse,Pub,54.977848682215615,-1.6121829236608303,993,"{'type': 'Point', 'coordinates': [54.977848682215615, -1.6121829236608303]}",Newcastle,Nightlife Spot,9,POINT (-1.61218292366083 54.97784868221562)
-Red House,Bar,54.96871675142823,-1.6077283271364005,549,"{'type': 'Point', 'coordinates': [54.96871675142823, -1.6077283271364005]}",Newcastle,Nightlife Spot,9,POINT (-1.6077283271364 54.96871675142823)
-The Wobbly Duck,Pub,54.97433,-1.614484,578,"{'type': 'Point', 'coordinates': [54.97433, -1.614484]}",Newcastle,Nightlife Spot,9,POINT (-1.614484 54.97433)
-Dog & Parrot,Pub,54.96848536151966,-1.6206600441319303,292,"{'type': 'Point', 'coordinates': [54.96848536151966, -1.6206600441319303]}",Newcastle,Nightlife Spot,9,POINT (-1.62066004413193 54.96848536151966)
-Oasis,Hookah Bar,54.968588827644396,-1.6205201068894226,280,"{'type': 'Point', 'coordinates': [54.968588827644396, -1.6205201068894226]}",Newcastle,Nightlife Spot,9,POINT (-1.620520106889423 54.9685888276444)
-The Bank,Gay Bar,54.96720769573847,-1.622218158475811,441,"{'type': 'Point', 'coordinates': [54.96720769573847, -1.622218158475811]}",Newcastle,Nightlife Spot,9,POINT (-1.622218158475811 54.96720769573847)
-Tyneside Bar Café,Bar,54.97398612636403,-1.6116334030795385,606,"{'type': 'Point', 'coordinates': [54.97398612636403, -1.6116334030795385]}",Newcastle,Nightlife Spot,9,POINT (-1.611633403079539 54.97398612636403)
-Hilton Newcastle Gateshead Executive Lounge,Hotel Bar,54.96636,-1.6063763,709,"{'type': 'Point', 'coordinates': [54.96636, -1.6063763]}",Newcastle,Nightlife Spot,9,POINT (-1.6063763 54.96636)
-The Keel Row (Lloyd's No. 1 Bar),Pub,54.97238653364609,-1.6173985382232543,357,"{'type': 'Point', 'coordinates': [54.97238653364609, -1.6173985382232543]}",Newcastle,Nightlife Spot,9,POINT (-1.617398538223254 54.97238653364609)
-Bar52,Bar,54.97112,-1.60888,517,"{'type': 'Point', 'coordinates': [54.97112, -1.60888]}",Newcastle,Nightlife Spot,9,POINT (-1.60888 54.97112)
-Super Natural Kitchen,Vegetarian / Vegan Restaurant,54.97037485398181,-1.6160601009450695,127,"{'type': 'Point', 'coordinates': [54.97037485398181, -1.6160601009450695]}",Newcastle,Vegetarian / Vegan Restaurant,18,POINT (-1.616060100945069 54.97037485398181)
-Karma Kitchen Café,Vegetarian / Vegan Restaurant,54.971146,-1.613615,272,"{'type': 'Point', 'coordinates': [54.971146, -1.613615]}",Newcastle,Vegetarian / Vegan Restaurant,18,POINT (-1.613615 54.971146)
-The Fat Hippo Underground,Burger Joint,54.9725349587578,-1.6120827707174206,454,"{'type': 'Point', 'coordinates': [54.9725349587578, -1.6120827707174206]}",Newcastle,Vegetarian / Vegan Restaurant,18,POINT (-1.612082770717421 54.9725349587578)
-Junk It Up,Fast Food Restaurant,54.969818,-1.619098,191,"{'type': 'Point', 'coordinates': [54.969818, -1.619098]}",Newcastle,Vegetarian / Vegan Restaurant,18,POINT (-1.619098 54.969818)
-Vegano,Vegetarian / Vegan Restaurant,54.969493,-1.623521,463,"{'type': 'Point', 'coordinates': [54.969493, -1.623521]}",Newcastle,Vegetarian / Vegan Restaurant,18,POINT (-1.623521 54.969493)
-Hungry Vegan,Food & Drink Shop,54.973887,-1.611301,607,"{'type': 'Point', 'coordinates': [54.973887, -1.611301]}",Newcastle,Vegetarian / Vegan Restaurant,18,POINT (-1.611301 54.973887)
-Farplace Vegan Store,Vegetarian / Vegan Restaurant,54.971577,-1.617076,265,"{'type': 'Point', 'coordinates': [54.971577, -1.617076]}",Newcastle,Vegetarian / Vegan Restaurant,18,POINT (-1.617076 54.971577)
-The Bohemian,Vegetarian / Vegan Restaurant,54.96975326538086,-1.6188877820968628,176,"{'type': 'Point', 'coordinates': [54.96975326538086, -1.6188877820968628]}",Newcastle,Vegetarian / Vegan Restaurant,18,POINT (-1.618887782096863 54.96975326538086)
-Painted Elephant,Vegetarian / Vegan Restaurant,54.97484202113101,-1.610213455652714,734,"{'type': 'Point', 'coordinates': [54.97484202113101, -1.610213455652714]}",Newcastle,Vegetarian / Vegan Restaurant,18,POINT (-1.610213455652714 54.97484202113101)
-The Pet Stop,Pet Store,54.9743,-1.61128,647,"{'type': 'Point', 'coordinates': [54.9743, -1.61128]}",Newcastle,Dobby,20,POINT (-1.61128 54.9743)
-Big Shop,Pet Store,54.972352,-1.614438,365,"{'type': 'Point', 'coordinates': [54.972352, -1.614438]}",Newcastle,Dobby,20,POINT (-1.614438 54.972352)
-Robinsons,Pet Store,54.97311463420963,-1.6149015201509542,440,"{'type': 'Point', 'coordinates': [54.97311463420963, -1.6149015201509542]}",Newcastle,Dobby,20,POINT (-1.614901520150954 54.97311463420963)
+nombre,sub_category,latitud,longitud,distance,location,city,category,ponder
+Urbanspace Interiors,Design Studio,30.269045000000002,-97.75153,455,"{'type': 'Point', 'coordinates': [30.269045000000002, -97.75153]}",Austin,Design Studio,0.06
+Jonathan Adler,Design Studio,30.270651457745725,-97.75563459093881,68,"{'type': 'Point', 'coordinates': [30.270651457745725, -97.75563459093881]}",Austin,Design Studio,0.06
+BlkMkt Digital,Design Studio,30.270388654253324,-97.75674531173587,152,"{'type': 'Point', 'coordinates': [30.270388654253324, -97.75674531173587]}",Austin,Design Studio,0.06
+Pixel Peach,Design Studio,30.270267,-97.75677,163,"{'type': 'Point', 'coordinates': [30.270267, -97.75677]}",Austin,Design Studio,0.06
+Minuteman Press,Print Shop,30.273324,-97.759424,440,"{'type': 'Point', 'coordinates': [30.273324, -97.759424]}",Austin,Design Studio,0.06
+Bright Health,Insurance Office,30.272478000000003,-97.757561,238,"{'type': 'Point', 'coordinates': [30.272478000000003, -97.757561]}",Austin,Design Studio,0.06
+Gentry Gallery,Design Studio,30.271988,-97.75835,284,"{'type': 'Point', 'coordinates': [30.271988, -97.75835]}",Austin,Design Studio,0.06
+Arete European Kitchens,Design Studio,30.273027000000003,-97.753454,279,"{'type': 'Point', 'coordinates': [30.273027000000003, -97.753454]}",Austin,Design Studio,0.06
+May Designs Studio,Design Studio,30.274122,-97.762491,742,"{'type': 'Point', 'coordinates': [30.274122, -97.762491]}",Austin,Design Studio,0.06
+StudioGee Architecture,Design Studio,30.273649215698242,-97.75865936279297,402,"{'type': 'Point', 'coordinates': [30.273649215698242, -97.75865936279297]}",Austin,Design Studio,0.06
+Hack Studio,Design Studio,30.274418,-97.762763,780,"{'type': 'Point', 'coordinates': [30.274418, -97.762763]}",Austin,Design Studio,0.06
+DANG! Studios,Design Studio,30.2764835357666,-97.74900817871094,854,"{'type': 'Point', 'coordinates': [30.2764835357666, -97.74900817871094]}",Austin,Design Studio,0.06
+Danuvox Studios,Design Studio,30.279086959735135,-97.75789669756223,900,"{'type': 'Point', 'coordinates': [30.279086959735135, -97.75789669756223]}",Austin,Design Studio,0.06
+The Martin House,Preschool,30.274393,-97.760895,623,"{'type': 'Point', 'coordinates': [30.274393, -97.760895]}",Austin,School,0.15
+Pease Elementary,Elementary School,30.274782003099872,-97.74826702164712,799,"{'type': 'Point', 'coordinates': [30.274782003099872, -97.74826702164712]}",Austin,School,0.15
+Mathews Elementary School,Elementary School,30.278495372719583,-97.76129259928938,978,"{'type': 'Point', 'coordinates': [30.278495372719583, -97.76129259928938]}",Austin,School,0.15
+Tasktop,Tech Startup,30.271439653457044,-97.75455336037079,94,"{'type': 'Point', 'coordinates': [30.271439653457044, -97.75455336037079]}",Austin,Tech Startup,0.04
+DFJ Mercury Austin HQ,Tech Startup,30.275662540917835,-97.75843790845195,564,"{'type': 'Point', 'coordinates': [30.275662540917835, -97.75843790845195]}",Austin,Tech Startup,0.04
+Union POS,Tech Startup,30.273803,-97.758091,376,"{'type': 'Point', 'coordinates': [30.273803, -97.758091]}",Austin,Tech Startup,0.04
+Lunar Collective,Tech Startup,30.267177,-97.744803,1125,"{'type': 'Point', 'coordinates': [30.267177, -97.744803]}",Austin,Tech Startup,0.04
+Umbel,Tech Startup,30.266565999999997,-97.752669,589,"{'type': 'Point', 'coordinates': [30.266565999999997, -97.752669]}",Austin,Tech Startup,0.04
+Brain+Trust Partners,Tech Startup,30.265892,-97.749415,837,"{'type': 'Point', 'coordinates': [30.265892, -97.749415]}",Austin,Tech Startup,0.04
+Silverton,Tech Startup,30.273941999999998,-97.748306,755,"{'type': 'Point', 'coordinates': [30.273941999999998, -97.748306]}",Austin,Tech Startup,0.04
+Square Root,Tech Startup,30.273697,-97.761317,620,"{'type': 'Point', 'coordinates': [30.273697, -97.761317]}",Austin,Tech Startup,0.04
+Digital Turbine,Tech Startup,30.265259,-97.74991,858,"{'type': 'Point', 'coordinates': [30.265259, -97.74991]}",Austin,Tech Startup,0.04
+thoughtbot,Tech Startup,30.274716,-97.762911,808,"{'type': 'Point', 'coordinates': [30.274716, -97.762911]}",Austin,Tech Startup,0.04
+eDoorways,Tech Startup,30.269061,-97.753712,300,"{'type': 'Point', 'coordinates': [30.269061, -97.753712]}",Austin,Tech Startup,0.04
+Qcue Headquarters,Tech Startup,30.272009000000004,-97.757663,222,"{'type': 'Point', 'coordinates': [30.272009000000004, -97.757663]}",Austin,Tech Startup,0.04
+Civitas Learning Inc. HQ,Tech Startup,30.27138239892707,-97.75811791419983,250,"{'type': 'Point', 'coordinates': [30.27138239892707, -97.75811791419983]}",Austin,Tech Startup,0.04
+TourGigs,Tech Startup,30.272825629863963,-97.7578330259658,282,"{'type': 'Point', 'coordinates': [30.272825629863963, -97.7578330259658]}",Austin,Tech Startup,0.04
+Written,Tech Startup,30.271511,-97.758053,245,"{'type': 'Point', 'coordinates': [30.271511, -97.758053]}",Austin,Tech Startup,0.04
+Favor Delivery,Tech Startup,30.275040713465334,-97.76363974539463,887,"{'type': 'Point', 'coordinates': [30.275040713465334, -97.76363974539463]}",Austin,Tech Startup,0.04
+Handshakez,Tech Startup,30.268431002261316,-97.7453863328599,1023,"{'type': 'Point', 'coordinates': [30.268431002261316, -97.7453863328599]}",Austin,Tech Startup,0.04
+Code for America Austin Headquarters #cfaATX,Tech Startup,30.264907836914062,-97.74727630615234,1061,"{'type': 'Point', 'coordinates': [30.264907836914062, -97.74727630615234]}",Austin,Tech Startup,0.04
+Datafiniti,Tech Startup,30.27378716359225,-97.74973658963454,623,"{'type': 'Point', 'coordinates': [30.27378716359225, -97.74973658963454]}",Austin,Tech Startup,0.04
+Waterfall,Tech Startup,30.27499202954598,-97.76368771989007,888,"{'type': 'Point', 'coordinates': [30.27499202954598, -97.76368771989007]}",Austin,Tech Startup,0.04
+SimplyTapp,Tech Startup,30.26569175720215,-97.74656677246094,1060,"{'type': 'Point', 'coordinates': [30.26569175720215, -97.74656677246094]}",Austin,Tech Startup,0.04
+MyVidster,Tech Startup,30.268418,-97.751681,485,"{'type': 'Point', 'coordinates': [30.268418, -97.751681]}",Austin,Tech Startup,0.04
+White Lion,Tech Startup,30.270362334772322,-97.74800202973971,729,"{'type': 'Point', 'coordinates': [30.270362334772322, -97.74800202973971]}",Austin,Tech Startup,0.04
+Toopher,Tech Startup,30.275662,-97.76511500000001,1044,"{'type': 'Point', 'coordinates': [30.275662, -97.76511500000001]}",Austin,Tech Startup,0.04
+Subject Matter,Tech Startup,30.275528,-97.764628,996,"{'type': 'Point', 'coordinates': [30.275528, -97.764628]}",Austin,Tech Startup,0.04
+AppTight Austin,Tech Startup,30.262998,-97.757993,949,"{'type': 'Point', 'coordinates': [30.262998, -97.757993]}",Austin,Tech Startup,0.04
+Paymetric,Tech Startup,30.26466549049134,-97.7478956555246,1037,"{'type': 'Point', 'coordinates': [30.26466549049134, -97.7478956555246]}",Austin,Tech Startup,0.04
+burks graphics,Tech Startup,30.270372883158053,-97.75054831360536,487,"{'type': 'Point', 'coordinates': [30.270372883158053, -97.75054831360536]}",Austin,Tech Startup,0.04
+RunOptimized,Advertising Agency,30.27476903857545,-97.75111198425293,576,"{'type': 'Point', 'coordinates': [30.27476903857545, -97.75111198425293]}",Austin,Tech Startup,0.04
+Razorfish,Office,30.26901893916689,-97.74551465469186,993,"{'type': 'Point', 'coordinates': [30.26901893916689, -97.74551465469186]}",Austin,Tech Startup,0.04
+Starbucks,Coffee Shop,30.269783,-97.753914,225,"{'type': 'Point', 'coordinates': [30.269783, -97.753914]}",Austin,Coffee Shop,0.07
+Starbucks,Coffee Shop,30.26585756712895,-97.7463083781941,1070,"{'type': 'Point', 'coordinates': [30.26585756712895, -97.7463083781941]}",Austin,Coffee Shop,0.07
+Starbucks,Coffee Shop,30.261258698741642,-97.75796442738695,1137,"{'type': 'Point', 'coordinates': [30.261258698741642, -97.75796442738695]}",Austin,Coffee Shop,0.07
+Austin Train Station - Amtrak (AUS),Train Station,30.269559478737243,-97.75686073732146,228,"{'type': 'Point', 'coordinates': [30.269559478737243, -97.75686073732146]}",Austin,Train Station,0.08
+24 Diner,Diner,30.271858001953817,-97.7539821602583,162,"{'type': 'Point', 'coordinates': [30.271858001953817, -97.7539821602583]}",Austin,Nightlife Spot,0.9
+Z'Tejas Mexican Restaurant and Grill,Mexican Restaurant,30.272471,-97.755781,137,"{'type': 'Point', 'coordinates': [30.272471, -97.755781]}",Austin,Nightlife Spot,0.9
+Better Half Coffee & Cocktails,Café,30.27140520790601,-97.75854622093502,291,"{'type': 'Point', 'coordinates': [30.27140520790601, -97.75854622093502]}",Austin,Nightlife Spot,0.9
+The Grove Wine Bar & Kitchen - Downtown,Wine Bar,30.270575556202783,-97.751098561664,431,"{'type': 'Point', 'coordinates': [30.270575556202783, -97.751098561664]}",Austin,Nightlife Spot,0.9
+Tiniest Bar In Texas,Bar,30.269667271100275,-97.7530157587751,298,"{'type': 'Point', 'coordinates': [30.269667271100275, -97.7530157587751]}",Austin,Nightlife Spot,0.9
+The Codependent,Cocktail Bar,30.267467,-97.75072,625,"{'type': 'Point', 'coordinates': [30.267467, -97.75072]}",Austin,Nightlife Spot,0.9
+Devil May Care,Lounge,30.269570892546344,-97.74749958518441,793,"{'type': 'Point', 'coordinates': [30.269570892546344, -97.74749958518441]}",Austin,Nightlife Spot,0.9
+Perfect Strangers,Bar,30.266953,-97.748094,859,"{'type': 'Point', 'coordinates': [30.266953, -97.748094]}",Austin,Nightlife Spot,0.9
+Hold Out Brewing,Brewery,30.271392822265625,-97.75900268554688,335,"{'type': 'Point', 'coordinates': [30.271392822265625, -97.75900268554688]}",Austin,Nightlife Spot,0.9
+Chuy's Tex-Mex,Mexican Restaurant,30.263844580302678,-97.76333212742121,1116,"{'type': 'Point', 'coordinates': [30.263844580302678, -97.76333212742121]}",Austin,Nightlife Spot,0.9
+The Peacock,Mediterranean Restaurant,30.266044,-97.750168,775,"{'type': 'Point', 'coordinates': [30.266044, -97.750168]}",Austin,Nightlife Spot,0.9
+Mean Eyed Cat,Bar,30.27463586030961,-97.76505121297244,990,"{'type': 'Point', 'coordinates': [30.27463586030961, -97.76505121297244]}",Austin,Nightlife Spot,0.9
+Lavaca Street Bar & Grill,Bar,30.267113408163553,-97.74572607073826,1048,"{'type': 'Point', 'coordinates': [30.267113408163553, -97.74572607073826]}",Austin,Nightlife Spot,0.9
+The Tavern,Sports Bar,30.277131812274142,-97.75125780669028,771,"{'type': 'Point', 'coordinates': [30.277131812274142, -97.75125780669028]}",Austin,Nightlife Spot,0.9
+Irene's,Diner,30.27011315821582,-97.75119363696481,434,"{'type': 'Point', 'coordinates': [30.27011315821582, -97.75119363696481]}",Austin,Nightlife Spot,0.9
+Shoal Creek Saloon,Sports Bar,30.274262889031363,-97.75240270260736,448,"{'type': 'Point', 'coordinates': [30.274262889031363, -97.75240270260736]}",Austin,Nightlife Spot,0.9
+Goldie’s,Lounge,30.266053,-97.749919,790,"{'type': 'Point', 'coordinates': [30.266053, -97.749919]}",Austin,Nightlife Spot,0.9
+Whiskey Tango Foxtrot Icehouse,Bar,30.269775,-97.749836,570,"{'type': 'Point', 'coordinates': [30.269775, -97.749836]}",Austin,Nightlife Spot,0.9
+Dogwood Austin,Bar,30.26997575698497,-97.75028555950259,522,"{'type': 'Point', 'coordinates': [30.26997575698497, -97.75028555950259]}",Austin,Nightlife Spot,0.9
+Barton Springs Saloon,Dive Bar,30.26123519946251,-97.75872627638807,1157,"{'type': 'Point', 'coordinates': [30.26123519946251, -97.75872627638807]}",Austin,Nightlife Spot,0.9
+Buford's,Bar,30.27003431487473,-97.74958764016608,586,"{'type': 'Point', 'coordinates': [30.27003431487473, -97.74958764016608]}",Austin,Nightlife Spot,0.9
+Greenlight Social,Nightclub,30.270305520883838,-97.75034788324817,508,"{'type': 'Point', 'coordinates': [30.270305520883838, -97.75034788324817]}",Austin,Nightlife Spot,0.9
+Parlor and Yard,Sports Bar,30.269586926671902,-97.74872062849724,679,"{'type': 'Point', 'coordinates': [30.269586926671902, -97.74872062849724]}",Austin,Nightlife Spot,0.9
+Rustic Tap,Bar,30.269532889564395,-97.74914530679351,642,"{'type': 'Point', 'coordinates': [30.269532889564395, -97.74914530679351]}",Austin,Nightlife Spot,0.9
+Violet Crown Cinema,Indie Movie Theater,30.26552397008005,-97.7481887385356,950,"{'type': 'Point', 'coordinates': [30.26552397008005, -97.7481887385356]}",Austin,Nightlife Spot,0.9
+Carpenters Hall,Restaurant,30.262191856255196,-97.7587578320245,1056,"{'type': 'Point', 'coordinates': [30.262191856255196, -97.7587578320245]}",Austin,Nightlife Spot,0.9
+Little Woodrow's,Bar,30.269732264039575,-97.74822516062437,721,"{'type': 'Point', 'coordinates': [30.269732264039575, -97.74822516062437]}",Austin,Nightlife Spot,0.9
+Donn's Depot,Dive Bar,30.273781,-97.763382,806,"{'type': 'Point', 'coordinates': [30.273781, -97.763382]}",Austin,Nightlife Spot,0.9
+Star Bar,Bar,30.269791799232685,-97.74850510965844,693,"{'type': 'Point', 'coordinates': [30.269791799232685, -97.74850510965844]}",Austin,Nightlife Spot,0.9
+The Roosevelt Room,Cocktail Bar,30.267842,-97.746242,969,"{'type': 'Point', 'coordinates': [30.267842, -97.746242]}",Austin,Nightlife Spot,0.9
+Next Level Burger,Vegetarian / Vegan Restaurant,30.270605676440674,-97.75312889553437,240,"{'type': 'Point', 'coordinates': [30.270605676440674, -97.75312889553437]}",Austin,Vegetarian / Vegan Restaurant,0.18
+Juiceland,Juice Bar,30.270983,-97.753333,212,"{'type': 'Point', 'coordinates': [30.270983, -97.753333]}",Austin,Vegetarian / Vegan Restaurant,0.18
+Juice Land,Smoothie Shop,30.266818,-97.749766,741,"{'type': 'Point', 'coordinates': [30.266818, -97.749766]}",Austin,Vegetarian / Vegan Restaurant,0.18
+Crazy Tortilla,Food Truck,30.26975,-97.749301,620,"{'type': 'Point', 'coordinates': [30.26975, -97.749301]}",Austin,Vegetarian / Vegan Restaurant,0.18
+True Food Kitchen,New American Restaurant,30.267194,-97.752134,557,"{'type': 'Point', 'coordinates': [30.267194, -97.752134]}",Austin,Vegetarian / Vegan Restaurant,0.18
+Casa de Luz,Vegetarian / Vegan Restaurant,30.26412621398494,-97.76180412774343,997,"{'type': 'Point', 'coordinates': [30.26412621398494, -97.76180412774343]}",Austin,Vegetarian / Vegan Restaurant,0.18
+West Lynn Veterinary Clinic,Veterinarian,30.27655219353802,-97.7610233408046,792,"{'type': 'Point', 'coordinates': [30.27655219353802, -97.7610233408046]}",Austin,Dobby,0.2
+ZippiVet,Veterinarian,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Dobby,0.2
+Highlands Pet Medical Clinic,Veterinarian,30.278146999999997,-97.751743,848,"{'type': 'Point', 'coordinates': [30.278146999999997, -97.751743]}",Austin,Dobby,0.2
+Healthy Pet,Pet Store,30.26734,-97.752343,532,"{'type': 'Point', 'coordinates': [30.26734, -97.752343]}",Austin,Dobby,0.2
+Upper Paw Urban Pet Resort,Pet Service,30.269452,-97.75019,550,"{'type': 'Point', 'coordinates': [30.269452, -97.75019]}",Austin,Dobby,0.2
+C Dog Lady,Pet Service,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Dobby,0.2
+Invisible Fence of Southeast Texas,Construction & Landscaping,30.277859684390798,-97.75182072879514,816,"{'type': 'Point', 'coordinates': [30.277859684390798, -97.75182072879514]}",Austin,Dobby,0.2
+Bus Stop 4086 - 5th & West Lynn,Bus Stop,30.273689208070937,-97.76327265616915,793,"{'type': 'Point', 'coordinates': [30.273689208070937, -97.76327265616915]}",Austin,Dobby,0.2
+Barking Hound Village,Pet Service,30.261745754090594,-97.75893079061424,1108,"{'type': 'Point', 'coordinates': [30.261745754090594, -97.75893079061424]}",Austin,Dobby,0.2
+Woof Gang Bakery,Pet Store,30.27727485195775,-97.75138524797313,778,"{'type': 'Point', 'coordinates': [30.27727485195775, -97.75138524797313]}",Austin,Dobby,0.2
+Healthy Pet,Pet Store,30.26734,-97.752343,532,"{'type': 'Point', 'coordinates': [30.26734, -97.752343]}",Austin,Dobby,0.2
+Austin Urban Vet Center,Pet Store,30.26940387440138,-97.75029814179358,542,"{'type': 'Point', 'coordinates': [30.26940387440138, -97.75029814179358]}",Austin,Dobby,0.2
+Tomlinson's,Pet Store,30.27702365937512,-97.75102421798358,773,"{'type': 'Point', 'coordinates': [30.27702365937512, -97.75102421798358]}",Austin,Dobby,0.2
+Great Outdogs,Pet Store,30.26096478645842,-97.75750936295276,1161,"{'type': 'Point', 'coordinates': [30.26096478645842, -97.75750936295276]}",Austin,Dobby,0.2
+C Dog Lady,Pet Service,30.263205,-97.757191,910,"{'type': 'Point', 'coordinates': [30.263205, -97.757191]}",Austin,Dobby,0.2
+Woof Gang Bakery,Pet Store,30.27727485195775,-97.75138524797313,778,"{'type': 'Point', 'coordinates': [30.27727485195775, -97.75138524797313]}",Austin,Dobby,0.2
+Dirty Dog - Downtown,Pet Store,30.269343154712544,-97.7501974266111,554,"{'type': 'Point', 'coordinates': [30.269343154712544, -97.7501974266111]}",Austin,Dobby,0.2
+Midtown Groom & Board,Pet Store,30.27780592191682,-97.75205005915224,801,"{'type': 'Point', 'coordinates': [30.27780592191682, -97.75205005915224]}",Austin,Dobby,0.2
+HirschTEC,Design Studio,53.556207,10.006941,277,"{'type': 'Point', 'coordinates': [53.556207, 10.006941]}",Hamburg,Design Studio,0.06
+Design Forum,Design Studio,53.55549899688691,9.989682664486997,887,"{'type': 'Point', 'coordinates': [53.55549899688691, 9.989682664486997]}",Hamburg,Design Studio,0.06
+The Shack,Recording Studio,53.54858507232179,9.99938838064678,951,"{'type': 'Point', 'coordinates': [53.54858507232179, 9.99938838064678]}",Hamburg,Design Studio,0.06
+(smow),Furniture / Home Store,53.54866,10.002866,914,"{'type': 'Point', 'coordinates': [53.54866, 10.002866]}",Hamburg,Design Studio,0.06
+Makery.,Design Studio,53.553883,10.016137,936,"{'type': 'Point', 'coordinates': [53.553883, 10.016137]}",Hamburg,Design Studio,0.06
+Design Forum,Design Studio,53.55145385509746,9.996272188767664,745,"{'type': 'Point', 'coordinates': [53.55145385509746, 9.996272188767664]}",Hamburg,Design Studio,0.06
+Monki Store,Design Studio,53.554658,9.99526,562,"{'type': 'Point', 'coordinates': [53.554658, 9.99526]}",Hamburg,Design Studio,0.06
+1 2 3,Design Studio,53.553381971619714,9.990595011885828,901,"{'type': 'Point', 'coordinates': [53.553381971619714, 9.990595011885828]}",Hamburg,Design Studio,0.06
+Cedon,Design Studio,53.553035036166634,9.989599488847476,977,"{'type': 'Point', 'coordinates': [53.553035036166634, 9.989599488847476]}",Hamburg,Design Studio,0.06
+Stilwerke,Design Studio,53.56372,9.999922,787,"{'type': 'Point', 'coordinates': [53.56372, 9.999922]}",Hamburg,Design Studio,0.06
+Atelier Figurart,Design Studio,53.55663,10.013691,714,"{'type': 'Point', 'coordinates': [53.55663, 10.013691]}",Hamburg,Design Studio,0.06
+Dibbern,Design Studio,53.553678353738675,9.987155397457894,1100,"{'type': 'Point', 'coordinates': [53.553678353738675, 9.987155397457894]}",Hamburg,Design Studio,0.06
+Siteway,Office,53.55429174516101,9.988262057304382,1009,"{'type': 'Point', 'coordinates': [53.55429174516101, 9.988262057304382]}",Hamburg,Design Studio,0.06
+Mossapour,Furniture / Home Store,53.55419411427837,9.998586950661362,412,"{'type': 'Point', 'coordinates': [53.55419411427837, 9.998586950661362]}",Hamburg,Design Studio,0.06
+Atelier Nicolaisen Klomp,Design Studio,53.556706,10.013092,674,"{'type': 'Point', 'coordinates': [53.556706, 10.013092]}",Hamburg,Design Studio,0.06
+Dental Design Reichert GmbH,Design Studio,53.55849,10.008502,411,"{'type': 'Point', 'coordinates': [53.55849, 10.008502]}",Hamburg,Design Studio,0.06
+J&B Intermedia,Design Studio,53.553625612278566,9.992093344122793,800,"{'type': 'Point', 'coordinates': [53.553625612278566, 9.992093344122793]}",Hamburg,Design Studio,0.06
+Sabine Funk Design,Design Studio,53.557556066231086,9.992761618228371,674,"{'type': 'Point', 'coordinates': [53.557556066231086, 9.992761618228371]}",Hamburg,Design Studio,0.06
+Atelier Christian von der Heide,Design Studio,53.556849,10.009347,426,"{'type': 'Point', 'coordinates': [53.556849, 10.009347]}",Hamburg,Design Studio,0.06
+R.I.C.O. Interior,Design Studio,53.54835,9.996807,1030,"{'type': 'Point', 'coordinates': [53.54835, 9.996807]}",Hamburg,Design Studio,0.06
+a+l partner,Design Studio,53.555133,10.006347,299,"{'type': 'Point', 'coordinates': [53.555133, 10.006347]}",Hamburg,Design Studio,0.06
+RED LION,Office,53.55407663625435,9.989136457443237,961,"{'type': 'Point', 'coordinates': [53.55407663625435, 9.989136457443237]}",Hamburg,Design Studio,0.06
+MMPG,IT Services,53.55084900066045,9.988623107461756,1158,"{'type': 'Point', 'coordinates': [53.55084900066045, 9.988623107461756]}",Hamburg,Design Studio,0.06
+elbblut GmbH Büro für Druck & Gestaltung,Design Studio,53.549493,10.0032,821,"{'type': 'Point', 'coordinates': [53.549493, 10.0032]}",Hamburg,Design Studio,0.06
+Institute of Design,Design Studio,53.55766242829918,9.989445575803032,894,"{'type': 'Point', 'coordinates': [53.55766242829918, 9.989445575803032]}",Hamburg,Design Studio,0.06
+Sympatient,Tech Startup,53.557572,10.00984,465,"{'type': 'Point', 'coordinates': [53.557572, 10.00984]}",Hamburg,Tech Startup,0.04
+Monopol für Stromerzeugnisse e.V. -Zweigstelle Hamburg Mitte,Tech Startup,53.551632,10.000322,607,"{'type': 'Point', 'coordinates': [53.551632, 10.000322]}",Hamburg,Tech Startup,0.04
+Carmio Internet GmbH HQ,Tech Startup,53.549766,9.995893,916,"{'type': 'Point', 'coordinates': [53.549766, 9.995893]}",Hamburg,Tech Startup,0.04
+oysterbay GmbH,Tech Startup,53.556275,9.991302,769,"{'type': 'Point', 'coordinates': [53.556275, 9.991302]}",Hamburg,Tech Startup,0.04
+SnipSell GmbH,Tech Startup,53.55560695585027,9.990581406476853,826,"{'type': 'Point', 'coordinates': [53.55560695585027, 9.990581406476853]}",Hamburg,Tech Startup,0.04
+Bergwerk.io,Tech Startup,53.554349,9.999383,364,"{'type': 'Point', 'coordinates': [53.554349, 9.999383]}",Hamburg,Tech Startup,0.04
+Just Software Headquarters,Tech Startup,53.55334460735321,9.987387657165527,1098,"{'type': 'Point', 'coordinates': [53.55334460735321, 9.987387657165527]}",Hamburg,Tech Startup,0.04
+kleidoo,Tech Startup,53.552491779497885,10.001925794342583,491,"{'type': 'Point', 'coordinates': [53.552491779497885, 10.001925794342583]}",Hamburg,Tech Startup,0.04
+kwizzme.com,Tech Startup,53.55239774457607,10.000524799545992,522,"{'type': 'Point', 'coordinates': [53.55239774457607, 10.000524799545992]}",Hamburg,Tech Startup,0.04
+Computerrock Branch,Tech Startup,53.549204,9.999155,888,"{'type': 'Point', 'coordinates': [53.549204, 9.999155]}",Hamburg,Tech Startup,0.04
+Zag,Tech Startup,53.55358928433574,10.003484219396052,367,"{'type': 'Point', 'coordinates': [53.55358928433574, 10.003484219396052]}",Hamburg,Tech Startup,0.04
+42 & Sohn,Tech Startup,53.553810597702146,10.002757053256381,341,"{'type': 'Point', 'coordinates': [53.553810597702146, 10.002757053256381]}",Hamburg,Tech Startup,0.04
+Office 21,Tech Startup,53.54952426666667,9.999540725,847,"{'type': 'Point', 'coordinates': [53.54952426666667, 9.999540725]}",Hamburg,Tech Startup,0.04
+Lotsen Für Digitales@Hamburg,Tech Startup,53.561358048642184,9.988998563129114,1046,"{'type': 'Point', 'coordinates': [53.561358048642184, 9.988998563129114]}",Hamburg,Tech Startup,0.04
+Someday CoVentures,Tech Startup,53.552758,10.012381,776,"{'type': 'Point', 'coordinates': [53.552758, 10.012381]}",Hamburg,Tech Startup,0.04
+Style Net Media GmbH,Tech Startup,53.551527,9.99688,716,"{'type': 'Point', 'coordinates': [53.551527, 9.99688]}",Hamburg,Tech Startup,0.04
+abgeordnetenwatch.de,Tech Startup,53.564629,9.995068,1006,"{'type': 'Point', 'coordinates': [53.564629, 9.995068]}",Hamburg,Tech Startup,0.04
+Feelgood,Tech Startup,53.5552547074554,9.986425597843354,1104,"{'type': 'Point', 'coordinates': [53.5552547074554, 9.986425597843354]}",Hamburg,Tech Startup,0.04
+BUDDENBOHM & SOEHNE,Tech Startup,53.55681579966773,10.00686866259398,262,"{'type': 'Point', 'coordinates': [53.55681579966773, 10.00686866259398]}",Hamburg,Tech Startup,0.04
+Interactive Pioneers Nordfront,Tech Startup,53.55857867184783,10.008860238438196,437,"{'type': 'Point', 'coordinates': [53.55857867184783, 10.008860238438196]}",Hamburg,Tech Startup,0.04
+campa group,Tech Startup,53.554837,9.990208,869,"{'type': 'Point', 'coordinates': [53.554837, 9.990208]}",Hamburg,Tech Startup,0.04
+tagnewmedia,Tech Startup,53.54933439014154,9.999510475363957,868,"{'type': 'Point', 'coordinates': [53.54933439014154, 9.999510475363957]}",Hamburg,Tech Startup,0.04
+Spryker,Tech Startup,53.552316,10.004468,517,"{'type': 'Point', 'coordinates': [53.552316, 10.004468]}",Hamburg,Tech Startup,0.04
+Dynport,Tech Startup,53.554424,9.987635,1045,"{'type': 'Point', 'coordinates': [53.554424, 9.987635]}",Hamburg,Tech Startup,0.04
+Joblift,Tech Startup,53.548344,9.995614,1064,"{'type': 'Point', 'coordinates': [53.548344, 9.995614]}",Hamburg,Tech Startup,0.04
+red6 enterprise software GmbH,Tech Startup,53.562688416041965,9.99589975624077,795,"{'type': 'Point', 'coordinates': [53.562688416041965, 9.99589975624077]}",Hamburg,Tech Startup,0.04
+Publicis Pixelpark,Advertising Agency,53.554099396912804,9.989048874395403,966,"{'type': 'Point', 'coordinates': [53.554099396912804, 9.989048874395403]}",Hamburg,Tech Startup,0.04
+Starbucks,Coffee Shop,53.552863,10.005558,479,"{'type': 'Point', 'coordinates': [53.552863, 10.005558]}",Hamburg,Coffee Shop,0.07
+Starbucks,Coffee Shop,53.55506782558954,9.990986279762279,813,"{'type': 'Point', 'coordinates': [53.55506782558954, 9.990986279762279]}",Hamburg,Coffee Shop,0.07
+Starbucks,Coffee Shop,53.55125630451121,10.000930394719328,638,"{'type': 'Point', 'coordinates': [53.55125630451121, 10.000930394719328]}",Hamburg,Coffee Shop,0.07
+Starbucks,Coffee Shop,53.551692837684364,9.995605945587158,751,"{'type': 'Point', 'coordinates': [53.551692837684364, 9.995605945587158]}",Hamburg,Coffee Shop,0.07
+Hamburg Hauptbahnhof,Train Station,53.55271266099564,10.006946325302124,534,"{'type': 'Point', 'coordinates': [53.55271266099564, 10.006946325302124]}",Hamburg,Train Station,0.08
+Gleis 7/8,Platform,53.55250281378347,10.007038082301793,558,"{'type': 'Point', 'coordinates': [53.55250281378347, 10.007038082301793]}",Hamburg,Train Station,0.08
+Gleis 5/6,Platform,53.5526505019954,10.00704843410421,544,"{'type': 'Point', 'coordinates': [53.5526505019954, 10.00704843410421]}",Hamburg,Train Station,0.08
+Gleis 1/2,Platform,53.55242498961892,10.007097613935375,567,"{'type': 'Point', 'coordinates': [53.55242498961892, 10.007097613935375]}",Hamburg,Train Station,0.08
+Gleis 13/14,Platform,53.55214727956492,10.006377696990967,574,"{'type': 'Point', 'coordinates': [53.55214727956492, 10.006377696990967]}",Hamburg,Train Station,0.08
+Gleis 11/12,Platform,53.55256324430746,10.006875387444758,547,"{'type': 'Point', 'coordinates': [53.55256324430746, 10.006875387444758]}",Hamburg,Train Station,0.08
+Gleis 3/4,Platform,53.5524819536498,10.007100242510404,562,"{'type': 'Point', 'coordinates': [53.5524819536498, 10.007100242510404]}",Hamburg,Train Station,0.08
+Bahnhof Hamburg Dammtor,Train Station,53.560949,9.989468,997,"{'type': 'Point', 'coordinates': [53.560949, 9.989468]}",Hamburg,Train Station,0.08
+Gleis 3/4,Platform,53.56108986813567,9.989479582376301,1003,"{'type': 'Point', 'coordinates': [53.56108986813567, 9.989479582376301]}",Hamburg,Train Station,0.08
+Atlantic Bar,Hotel Bar,53.55715552979616,10.004598471348444,116,"{'type': 'Point', 'coordinates': [53.55715552979616, 10.004598471348444]}",Hamburg,Nightlife Spot,0.9
+Fontenay Bar,Hotel Bar,53.565352,9.998762,982,"{'type': 'Point', 'coordinates': [53.565352, 9.998762]}",Hamburg,Nightlife Spot,0.9
+Maliks,Bar,53.55513016152191,10.009639263153076,486,"{'type': 'Point', 'coordinates': [53.55513016152191, 10.009639263153076]}",Hamburg,Nightlife Spot,0.9
+Alsterlagune,Bar,53.55345753,9.99666302,560,"{'type': 'Point', 'coordinates': [53.55345753, 9.99666302]}",Hamburg,Nightlife Spot,0.9
+Tipsy Baker Bar,Cocktail Bar,53.558003772071494,9.989643983040544,885,"{'type': 'Point', 'coordinates': [53.558003772071494, 9.989643983040544]}",Hamburg,Nightlife Spot,0.9
+barca - an der Alster,Restaurant,53.55851356439605,10.005615648642788,256,"{'type': 'Point', 'coordinates': [53.55851356439605, 10.005615648642788]}",Hamburg,Nightlife Spot,0.9
+Toms Saloon,Gay Bar,53.55354602960898,10.01455843448639,855,"{'type': 'Point', 'coordinates': [53.55354602960898, 10.01455843448639]}",Hamburg,Nightlife Spot,0.9
+S.L.U.T. Club Hamburg,Gay Bar,53.55625651371782,10.014248290028432,753,"{'type': 'Point', 'coordinates': [53.55625651371782, 10.014248290028432]}",Hamburg,Nightlife Spot,0.9
+Emil's,Lounge,53.554752233884926,10.008351802825928,430,"{'type': 'Point', 'coordinates': [53.554752233884926, 10.008351802825928]}",Hamburg,Nightlife Spot,0.9
+Neumanns Bistro & Weinbar,Wine Bar,53.55905732198548,10.013134181499481,719,"{'type': 'Point', 'coordinates': [53.55905732198548, 10.013134181499481]}",Hamburg,Nightlife Spot,0.9
+Frau Möller,Pub,53.55885232822514,10.013241684062628,718,"{'type': 'Point', 'coordinates': [53.55885232822514, 10.013241684062628]}",Hamburg,Nightlife Spot,0.9
+Casino Esplanade,Casino,53.55834757525646,9.989784616915077,882,"{'type': 'Point', 'coordinates': [53.55834757525646, 9.989784616915077]}",Hamburg,Nightlife Spot,0.9
+ALEX,Café,53.55410512292068,9.992044506946822,781,"{'type': 'Point', 'coordinates': [53.55410512292068, 9.992044506946822]}",Hamburg,Nightlife Spot,0.9
+Nagel,German Restaurant,53.5527240668893,10.0087611941861,602,"{'type': 'Point', 'coordinates': [53.5527240668893, 10.0087611941861]}",Hamburg,Nightlife Spot,0.9
+Veuve Clicquot,Wine Bar,53.55293926695286,9.991467358334763,873,"{'type': 'Point', 'coordinates': [53.55293926695286, 9.991467358334763]}",Hamburg,Nightlife Spot,0.9
+M&V Bar,Gay Bar,53.55596000863462,10.00940877160969,442,"{'type': 'Point', 'coordinates': [53.55596000863462, 10.00940877160969]}",Hamburg,Nightlife Spot,0.9
+Hofbräu Wirtshaus Esplanade,Bavarian Restaurant,53.5577477621795,9.992048068875492,724,"{'type': 'Point', 'coordinates': [53.5577477621795, 9.992048068875492]}",Hamburg,Nightlife Spot,0.9
+Hofbräu Wirtshaus am Speersort,Bavarian Restaurant,53.54954609888491,9.99783878103036,881,"{'type': 'Point', 'coordinates': [53.54954609888491, 9.99783878103036]}",Hamburg,Nightlife Spot,0.9
+Le Lion,Cocktail Bar,53.55021,9.994526,925,"{'type': 'Point', 'coordinates': [53.55021, 9.994526]}",Hamburg,Nightlife Spot,0.9
+Brooklyn Burger Bar,Burger Joint,53.54866568794967,9.996709782288885,1001,"{'type': 'Point', 'coordinates': [53.54866568794967, 9.996709782288885]}",Hamburg,Nightlife Spot,0.9
+Cafe Ponton,Café,53.552284815355605,9.990624282470778,959,"{'type': 'Point', 'coordinates': [53.552284815355605, 9.990624282470778]}",Hamburg,Nightlife Spot,0.9
+Sands,Cocktail Bar,53.55966656105084,9.989644860506747,930,"{'type': 'Point', 'coordinates': [53.55966656105084, 9.989644860506747]}",Hamburg,Nightlife Spot,0.9
+Irish Pub in the Fleetenkieker,Irish Pub,53.54868564944223,9.992608090274839,1137,"{'type': 'Point', 'coordinates': [53.54868564944223, 9.992608090274839]}",Hamburg,Nightlife Spot,0.9
+Campari Lounge,Hotel Bar,53.561095875044764,10.014862709122966,920,"{'type': 'Point', 'coordinates': [53.561095875044764, 10.014862709122966]}",Hamburg,Nightlife Spot,0.9
+Paulaner's,German Restaurant,53.55346418308647,10.008375801154623,524,"{'type': 'Point', 'coordinates': [53.55346418308647, 10.008375801154623]}",Hamburg,Nightlife Spot,0.9
+Porta Nova,Italian Restaurant,53.547336402246124,9.996939184964836,1132,"{'type': 'Point', 'coordinates': [53.547336402246124, 9.996939184964836]}",Hamburg,Nightlife Spot,0.9
+Meyer Lansky's,Cocktail Bar,53.55577763282695,9.987495084635597,1025,"{'type': 'Point', 'coordinates': [53.55577763282695, 9.987495084635597]}",Hamburg,Nightlife Spot,0.9
+Das Parlament,German Restaurant,53.55007390261796,9.992970981821431,1002,"{'type': 'Point', 'coordinates': [53.55007390261796, 9.992970981821431]}",Hamburg,Nightlife Spot,0.9
+Bodos Bootssteg,Café,53.56730541671698,10.001756884745618,1163,"{'type': 'Point', 'coordinates': [53.56730541671698, 10.001756884745618]}",Hamburg,Nightlife Spot,0.9
+Kyti Voo Cafe & Bar,Bar,53.558264058771435,10.01244243741571,649,"{'type': 'Point', 'coordinates': [53.558264058771435, 10.01244243741571]}",Hamburg,Nightlife Spot,0.9
+Chay,Vegetarian / Vegan Restaurant,53.55256,10.00183,485,"{'type': 'Point', 'coordinates': [53.55256, 10.00183]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+An Vegan House,Vegetarian / Vegan Restaurant,53.558748,10.01275,683,"{'type': 'Point', 'coordinates': [53.558748, 10.01275]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+Vincent Vegan,Food Truck,53.55236757438734,10.005884565092641,538,"{'type': 'Point', 'coordinates': [53.55236757438734, 10.005884565092641]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+Genusshelden,German Restaurant,53.55125303129627,10.004006624221802,629,"{'type': 'Point', 'coordinates': [53.55125303129627, 10.004006624221802]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+Vincent Vegan,Vegetarian / Vegan Restaurant,53.552185,10.006057,562,"{'type': 'Point', 'coordinates': [53.552185, 10.006057]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+Season im Bucerius Kunst Forum,Vegetarian / Vegan Restaurant,53.55134286356518,9.992251153842286,935,"{'type': 'Point', 'coordinates': [53.55134286356518, 9.992251153842286]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+My Poké,Poke Place,53.551815,9.992709,878,"{'type': 'Point', 'coordinates': [53.551815, 9.992709]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+green lovers,Salad Place,53.54964691726431,9.99365752313051,1010,"{'type': 'Point', 'coordinates': [53.54964691726431, 9.99365752313051]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+Café Koppel,Vegetarian / Vegan Restaurant,53.558304295674674,10.011780244257638,608,"{'type': 'Point', 'coordinates': [53.558304295674674, 10.011780244257638]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+Season,Vegetarian / Vegan Restaurant,53.552589156560394,9.99413473279138,750,"{'type': 'Point', 'coordinates': [53.552589156560394, 9.99413473279138]}",Hamburg,Vegetarian / Vegan Restaurant,0.18
+Wau & Mau,Pet Service,53.553467,9.98911,987,"{'type': 'Point', 'coordinates': [53.553467, 9.98911]}",Hamburg,Dobby,0.2
+Stofftiergarten,Pet Store,53.55322935682321,10.006740608914956,478,"{'type': 'Point', 'coordinates': [53.55322935682321, 10.006740608914956]}",Hamburg,Dobby,0.2
+Pet Shop Boyz,Pet Store,53.55932185606266,10.01229593755946,678,"{'type': 'Point', 'coordinates': [53.55932185606266, 10.01229593755946]}",Hamburg,Dobby,0.2
+Fish-Alarm,Pet Store,53.554386,9.987747,1039,"{'type': 'Point', 'coordinates': [53.554386, 9.987747]}",Hamburg,Dobby,0.2
+Dog's Finest Versand,Pet Store,53.55536665305795,10.014493654128486,784,"{'type': 'Point', 'coordinates': [53.55536665305795, 10.014493654128486]}",Hamburg,Dobby,0.2
+Koko von Knebel,Pet Store,53.554443359375,9.987645149230957,1044,"{'type': 'Point', 'coordinates': [53.554443359375, 9.987645149230957]}",Hamburg,Dobby,0.2
+V.I.Pets,Pet Store,53.558997,10.013062,712,"{'type': 'Point', 'coordinates': [53.558997, 10.013062]}",Hamburg,Dobby,0.2
+Baltic 39 Studios,Design Studio,54.971929,-1.612978,366,"{'type': 'Point', 'coordinates': [54.971929, -1.612978]}",Newcastle,Design Studio,0.06
+Akenside Studios,Design Studio,54.9697,-1.609137,459,"{'type': 'Point', 'coordinates': [54.9697, -1.609137]}",Newcastle,Design Studio,0.06
+Magnetic Print and Design,Design Studio,54.97256441571117,-1.6089606285095215,596,"{'type': 'Point', 'coordinates': [54.97256441571117, -1.6089606285095215]}",Newcastle,Design Studio,0.06
+Bang on print,Design Studio,54.97031655033557,-1.6159489261744966,121,"{'type': 'Point', 'coordinates': [54.97031655033557, -1.6159489261744966]}",Newcastle,Design Studio,0.06
+Electrik Sheep,Design Studio,54.969819,-1.619147,194,"{'type': 'Point', 'coordinates': [54.969819, -1.619147]}",Newcastle,Design Studio,0.06
+Komodo Digital,Design Studio,54.96994712563321,-1.6176502780226871,117,"{'type': 'Point', 'coordinates': [54.96994712563321, -1.6176502780226871]}",Newcastle,Design Studio,0.06
+Printing.com,Design Studio,54.967967368896836,-1.621319237866355,351,"{'type': 'Point', 'coordinates': [54.967967368896836, -1.621319237866355]}",Newcastle,Design Studio,0.06
+CCP Games UK,Tech Startup,54.96488632677147,-1.607371842949401,747,"{'type': 'Point', 'coordinates': [54.96488632677147, -1.607371842949401]}",Newcastle,Design Studio,0.06
+deadgood,Design Studio,54.97267150878906,-1.6092842817306519,588,"{'type': 'Point', 'coordinates': [54.97267150878906, -1.6092842817306519]}",Newcastle,Design Studio,0.06
+Squidgy Designs,Design Studio,54.969839251195715,-1.6238414740511176,487,"{'type': 'Point', 'coordinates': [54.969839251195715, -1.6238414740511176]}",Newcastle,Design Studio,0.06
+tempertemper Web Design Ltd.,Design Studio,54.968471,-1.612229,272,"{'type': 'Point', 'coordinates': [54.968471, -1.612229]}",Newcastle,Design Studio,0.06
+Enigma Interactive,Office,54.96802882899835,-1.609093839210092,478,"{'type': 'Point', 'coordinates': [54.96802882899835, -1.609093839210092]}",Newcastle,Design Studio,0.06
+EvaluAgent - i6 Business Centre,Tech Startup,54.97107,-1.620326,329,"{'type': 'Point', 'coordinates': [54.97107, -1.620326]}",Newcastle,Tech Startup,0.04
+The Amazing Group,Tech Startup,54.97130508186489,-1.611417531967163,386,"{'type': 'Point', 'coordinates': [54.97130508186489, -1.611417531967163]}",Newcastle,Tech Startup,0.04
+Blooie HQ,Tech Startup,54.970029,-1.617983,139,"{'type': 'Point', 'coordinates': [54.970029, -1.617983]}",Newcastle,Tech Startup,0.04
+Givey HQ Newcastle,Tech Startup,54.970082,-1.617746,132,"{'type': 'Point', 'coordinates': [54.970082, -1.617746]}",Newcastle,Tech Startup,0.04
+Matchchat HQ,Tech Startup,54.96983337402344,-1.6178795099258423,121,"{'type': 'Point', 'coordinates': [54.96983337402344, -1.6178795099258423]}",Newcastle,Tech Startup,0.04
+"Medisas, Inc.",Tech Startup,54.96955108642578,-1.618043065071106,117,"{'type': 'Point', 'coordinates': [54.96955108642578, -1.618043065071106]}",Newcastle,Tech Startup,0.04
+Tint Towers,Tech Startup,54.96967659500577,-1.6139545099033301,156,"{'type': 'Point', 'coordinates': [54.96967659500577, -1.6139545099033301]}",Newcastle,Tech Startup,0.04
+Little Red Door HQ,Tech Startup,54.969972,-1.617665,120,"{'type': 'Point', 'coordinates': [54.969972, -1.617665]}",Newcastle,Tech Startup,0.04
+Atlas HQ,Tech Startup,54.97055272017778,-1.612122264055366,303,"{'type': 'Point', 'coordinates': [54.97055272017778, -1.612122264055366]}",Newcastle,Tech Startup,0.04
+CCP Games UK,Tech Startup,54.96488632677147,-1.607371842949401,747,"{'type': 'Point', 'coordinates': [54.96488632677147, -1.607371842949401]}",Newcastle,Tech Startup,0.04
+Amazing Towers,Tech Startup,54.9662550336138,-1.6033869981765747,888,"{'type': 'Point', 'coordinates': [54.9662550336138, -1.6033869981765747]}",Newcastle,Tech Startup,0.04
+band-x Media,Tech Startup,54.97311019180688,-1.6124930477756332,494,"{'type': 'Point', 'coordinates': [54.97311019180688, -1.6124930477756332]}",Newcastle,Tech Startup,0.04
+Beatnode,Tech Startup,54.96842749485894,-1.6077856997500668,550,"{'type': 'Point', 'coordinates': [54.96842749485894, -1.6077856997500668]}",Newcastle,Tech Startup,0.04
+Old media Towers,Tech Startup,54.97460882470729,-1.601729393005371,1105,"{'type': 'Point', 'coordinates': [54.97460882470729, -1.601729393005371]}",Newcastle,Tech Startup,0.04
+Moltin,Tech Startup,54.973489,-1.608465,687,"{'type': 'Point', 'coordinates': [54.973489, -1.608465]}",Newcastle,Tech Startup,0.04
+SoPost,Tech Startup,54.97103548976758,-1.6203530860699336,328,"{'type': 'Point', 'coordinates': [54.97103548976758, -1.6203530860699336]}",Newcastle,Tech Startup,0.04
+Leaf Music,Tech Startup,54.967929,-1.624497,544,"{'type': 'Point', 'coordinates': [54.967929, -1.624497]}",Newcastle,Tech Startup,0.04
+ff! Head Office,Tech Startup,54.97522754417878,-1.6114492855875022,734,"{'type': 'Point', 'coordinates': [54.97522754417878, -1.6114492855875022]}",Newcastle,Tech Startup,0.04
+Cloud Data Service,Tech Startup,54.97108646487632,-1.6200757026672363,317,"{'type': 'Point', 'coordinates': [54.97108646487632, -1.6200757026672363]}",Newcastle,Tech Startup,0.04
+Zerolight,Tech Startup,54.969619,-1.604692,741,"{'type': 'Point', 'coordinates': [54.969619, -1.604692]}",Newcastle,Tech Startup,0.04
+HurstDEV HQ,Tech Startup,54.964252,-1.605896,865,"{'type': 'Point', 'coordinates': [54.964252, -1.605896]}",Newcastle,Tech Startup,0.04
+The Roundhouse,Tech Startup,54.967682,-1.621263,362,"{'type': 'Point', 'coordinates': [54.967682, -1.621263]}",Newcastle,Tech Startup,0.04
+Ki-Media,Tech Startup,54.97200399500226,-1.6184112438274696,336,"{'type': 'Point', 'coordinates': [54.97200399500226, -1.6184112438274696]}",Newcastle,Tech Startup,0.04
+ignite100 - The Studio,Tech Startup,54.972478176765975,-1.6049254804393522,810,"{'type': 'Point', 'coordinates': [54.972478176765975, -1.6049254804393522]}",Newcastle,Tech Startup,0.04
+Fluid Pixel Offices,Tech Startup,54.972700706950704,-1.6080609694643935,651,"{'type': 'Point', 'coordinates': [54.972700706950704, -1.6080609694643935]}",Newcastle,Tech Startup,0.04
+Buy.at,Office,54.97065538563751,-1.6124475002288818,291,"{'type': 'Point', 'coordinates': [54.97065538563751, -1.6124475002288818]}",Newcastle,Tech Startup,0.04
+The App Chaps,Tech Startup,54.96388067565385,-1.605699062347412,901,"{'type': 'Point', 'coordinates': [54.96388067565385, -1.605699062347412]}",Newcastle,Tech Startup,0.04
+hedgehog lab,Tech Startup,54.9723442,-1.6051071,793,"{'type': 'Point', 'coordinates': [54.9723442, -1.6051071]}",Newcastle,Tech Startup,0.04
+Starbucks,Coffee Shop,54.969435,-1.616766,37,"{'type': 'Point', 'coordinates': [54.969435, -1.616766]}",Newcastle,Coffee Shop,0.07
+Starbucks,Coffee Shop,54.97478,-1.615004,622,"{'type': 'Point', 'coordinates': [54.97478, -1.615004]}",Newcastle,Coffee Shop,0.07
+Starbucks,Coffee Shop,54.972522,-1.617541,374,"{'type': 'Point', 'coordinates': [54.972522, -1.617541]}",Newcastle,Coffee Shop,0.07
+Starbucks,Coffee Shop,54.976985,-1.613368,882,"{'type': 'Point', 'coordinates': [54.976985, -1.613368]}",Newcastle,Coffee Shop,0.07
+Starbucks,Coffee Shop,54.97426016548611,-1.622321871197673,679,"{'type': 'Point', 'coordinates': [54.97426016548611, -1.622321871197673]}",Newcastle,Coffee Shop,0.07
+Starbucks,Coffee Shop,54.970542,-1.600355,1027,"{'type': 'Point', 'coordinates': [54.970542, -1.600355]}",Newcastle,Coffee Shop,0.07
+Newcastle Central Railway Station (NCL),Train Station,54.96848569794475,-1.6173415167971168,107,"{'type': 'Point', 'coordinates': [54.96848569794475, -1.6173415167971168]}",Newcastle,Train Station,0.08
+Long Stay Car Park,Train Station,54.96848711749249,-1.6171030715218615,98,"{'type': 'Point', 'coordinates': [54.96848711749249, -1.6171030715218615]}",Newcastle,Train Station,0.08
+Platform 4,Platform,54.968116055576694,-1.6165692872501791,126,"{'type': 'Point', 'coordinates': [54.968116055576694, -1.6165692872501791]}",Newcastle,Train Station,0.08
+Platform 3,Platform,54.96839709100208,-1.6172541221222725,112,"{'type': 'Point', 'coordinates': [54.96839709100208, -1.6172541221222725]}",Newcastle,Train Station,0.08
+Platform 2,Platform,54.96844042926115,-1.6172645144488291,108,"{'type': 'Point', 'coordinates': [54.96844042926115, -1.6172645144488291]}",Newcastle,Train Station,0.08
+Platform 1,Platform,54.96847014605542,-1.615824855005821,90,"{'type': 'Point', 'coordinates': [54.96847014605542, -1.615824855005821]}",Newcastle,Train Station,0.08
+Platform 7,Platform,54.968001966307774,-1.61628373956545,137,"{'type': 'Point', 'coordinates': [54.968001966307774, -1.61628373956545]}",Newcastle,Train Station,0.08
+Platform 12,Platform,54.968261755787594,-1.6182014653451129,164,"{'type': 'Point', 'coordinates': [54.968261755787594, -1.6182014653451129]}",Newcastle,Train Station,0.08
+Platform 6,Platform,54.96792311022943,-1.6171365631954446,156,"{'type': 'Point', 'coordinates': [54.96792311022943, -1.6171365631954446]}",Newcastle,Train Station,0.08
+Platform 10,Platform,54.968264,-1.618068,157,"{'type': 'Point', 'coordinates': [54.968264, -1.618068]}",Newcastle,Train Station,0.08
+Platform 2,Platform,54.969042,-1.616764,37,"{'type': 'Point', 'coordinates': [54.969042, -1.616764]}",Newcastle,Train Station,0.08
+Manors Railway Station (MAS),Train Station,54.97284425155188,-1.605302887961489,808,"{'type': 'Point', 'coordinates': [54.97284425155188, -1.605302887961489]}",Newcastle,Train Station,0.08
+Platform 1,Platform,54.97760009765625,-1.6143165826797485,939,"{'type': 'Point', 'coordinates': [54.97760009765625, -1.6143165826797485]}",Newcastle,Train Station,0.08
+Platform 2,Platform,54.977364,-1.613441,922,"{'type': 'Point', 'coordinates': [54.977364, -1.613441]}",Newcastle,Train Station,0.08
+Platform 2,Platform,54.96206119555039,-1.6043290292260932,1105,"{'type': 'Point', 'coordinates': [54.96206119555039, -1.6043290292260932]}",Newcastle,Train Station,0.08
+The Underground Platform 1,Platform,54.97046661376953,-1.6024068593978882,896,"{'type': 'Point', 'coordinates': [54.97046661376953, -1.6024068593978882]}",Newcastle,Train Station,0.08
+The Centurion,Bar,54.969117518006406,-1.616408320082125,15,"{'type': 'Point', 'coordinates': [54.969117518006406, -1.616408320082125]}",Newcastle,Nightlife Spot,0.9
+Newcastle Tap,Pub,54.969505,-1.61571,46,"{'type': 'Point', 'coordinates': [54.969505, -1.61571]}",Newcastle,Nightlife Spot,0.9
+The Mile Castle (Lloyd's No. 1 Bar),Bar,54.970219585550886,-1.6162108994592255,109,"{'type': 'Point', 'coordinates': [54.970219585550886, -1.6162108994592255]}",Newcastle,Nightlife Spot,0.9
+The Victoria Comet,Bar,54.96920750082269,-1.6174837516712213,76,"{'type': 'Point', 'coordinates': [54.96920750082269, -1.6174837516712213]}",Newcastle,Nightlife Spot,0.9
+Gunner Tavern,Pub,54.969061,-1.618081,116,"{'type': 'Point', 'coordinates': [54.969061, -1.618081]}",Newcastle,Nightlife Spot,0.9
+Head of Steam,Bar,54.969520290428434,-1.6155256631584982,57,"{'type': 'Point', 'coordinates': [54.969520290428434, -1.6155256631584982]}",Newcastle,Nightlife Spot,0.9
+BrewDog Newcastle,Beer Bar,54.969840150969624,-1.6096193037527584,430,"{'type': 'Point', 'coordinates': [54.969840150969624, -1.6096193037527584]}",Newcastle,Nightlife Spot,0.9
+The Bacchus,Pub,54.97235968826644,-1.6111115233244588,479,"{'type': 'Point', 'coordinates': [54.97235968826644, -1.6111115233244588]}",Newcastle,Nightlife Spot,0.9
+Tyneside Cinema,Indie Movie Theater,54.97386874713539,-1.611925458244147,585,"{'type': 'Point', 'coordinates': [54.97386874713539, -1.611925458244147]}",Newcastle,Nightlife Spot,0.9
+360 Sky Lounge,Lounge,54.969729,-1.623351,455,"{'type': 'Point', 'coordinates': [54.969729, -1.623351]}",Newcastle,Nightlife Spot,0.9
+Pitcher & Piano,Bar,54.97029103238662,-1.5996032926323693,1072,"{'type': 'Point', 'coordinates': [54.97029103238662, -1.5996032926323693]}",Newcastle,Nightlife Spot,0.9
+The Quayside (Wetherspoon),Pub,54.967399200959136,-1.6101131200439938,444,"{'type': 'Point', 'coordinates': [54.967399200959136, -1.6101131200439938]}",Newcastle,Nightlife Spot,0.9
+The Bridge Tavern,Pub,54.96937311479045,-1.6076953155439062,548,"{'type': 'Point', 'coordinates': [54.96937311479045, -1.6076953155439062]}",Newcastle,Nightlife Spot,0.9
+The Bridge Hotel,Pub,54.968583789390046,-1.610310368291018,388,"{'type': 'Point', 'coordinates': [54.968583789390046, -1.610310368291018]}",Newcastle,Nightlife Spot,0.9
+The Alchemist,Cocktail Bar,54.9735781224777,-1.6142403816233941,500,"{'type': 'Point', 'coordinates': [54.9735781224777, -1.6142403816233941]}",Newcastle,Nightlife Spot,0.9
+The Yard,Gay Bar,54.96724661757272,-1.6220659017562864,431,"{'type': 'Point', 'coordinates': [54.96724661757272, -1.6220659017562864]}",Newcastle,Nightlife Spot,0.9
+No 28,Bar,54.97337811806937,-1.6147243860766605,471,"{'type': 'Point', 'coordinates': [54.97337811806937, -1.6147243860766605]}",Newcastle,Nightlife Spot,0.9
+Errant Brewery,Brewery,54.965904,-1.6203704,454,"{'type': 'Point', 'coordinates': [54.965904, -1.6203704]}",Newcastle,Nightlife Spot,0.9
+The Delta Lounge,Beer Bar,54.968422,-1.6130413,226,"{'type': 'Point', 'coordinates': [54.968422, -1.6130413]}",Newcastle,Nightlife Spot,0.9
+Lady Grey's,Pub,54.97272790476629,-1.611217111571325,505,"{'type': 'Point', 'coordinates': [54.97272790476629, -1.611217111571325]}",Newcastle,Nightlife Spot,0.9
+The Town Mouse,Pub,54.977848682215615,-1.6121829236608303,993,"{'type': 'Point', 'coordinates': [54.977848682215615, -1.6121829236608303]}",Newcastle,Nightlife Spot,0.9
+Red House,Bar,54.96871675142823,-1.6077283271364005,549,"{'type': 'Point', 'coordinates': [54.96871675142823, -1.6077283271364005]}",Newcastle,Nightlife Spot,0.9
+The Wobbly Duck,Pub,54.97433,-1.614484,578,"{'type': 'Point', 'coordinates': [54.97433, -1.614484]}",Newcastle,Nightlife Spot,0.9
+Dog & Parrot,Pub,54.96848536151966,-1.6206600441319303,292,"{'type': 'Point', 'coordinates': [54.96848536151966, -1.6206600441319303]}",Newcastle,Nightlife Spot,0.9
+Oasis,Hookah Bar,54.968588827644396,-1.6205201068894226,280,"{'type': 'Point', 'coordinates': [54.968588827644396, -1.6205201068894226]}",Newcastle,Nightlife Spot,0.9
+The Bank,Gay Bar,54.96720769573847,-1.622218158475811,441,"{'type': 'Point', 'coordinates': [54.96720769573847, -1.622218158475811]}",Newcastle,Nightlife Spot,0.9
+Tyneside Bar Café,Bar,54.97398612636403,-1.6116334030795385,606,"{'type': 'Point', 'coordinates': [54.97398612636403, -1.6116334030795385]}",Newcastle,Nightlife Spot,0.9
+Hilton Newcastle Gateshead Executive Lounge,Hotel Bar,54.96636,-1.6063763,709,"{'type': 'Point', 'coordinates': [54.96636, -1.6063763]}",Newcastle,Nightlife Spot,0.9
+The Keel Row (Lloyd's No. 1 Bar),Pub,54.97238653364609,-1.6173985382232543,357,"{'type': 'Point', 'coordinates': [54.97238653364609, -1.6173985382232543]}",Newcastle,Nightlife Spot,0.9
+Bar52,Bar,54.97112,-1.60888,517,"{'type': 'Point', 'coordinates': [54.97112, -1.60888]}",Newcastle,Nightlife Spot,0.9
+Super Natural Kitchen,Vegetarian / Vegan Restaurant,54.97037485398181,-1.6160601009450695,127,"{'type': 'Point', 'coordinates': [54.97037485398181, -1.6160601009450695]}",Newcastle,Vegetarian / Vegan Restaurant,0.18
+Karma Kitchen Café,Vegetarian / Vegan Restaurant,54.971146,-1.613615,272,"{'type': 'Point', 'coordinates': [54.971146, -1.613615]}",Newcastle,Vegetarian / Vegan Restaurant,0.18
+The Fat Hippo Underground,Burger Joint,54.9725349587578,-1.6120827707174206,454,"{'type': 'Point', 'coordinates': [54.9725349587578, -1.6120827707174206]}",Newcastle,Vegetarian / Vegan Restaurant,0.18
+Junk It Up,Fast Food Restaurant,54.969818,-1.619098,191,"{'type': 'Point', 'coordinates': [54.969818, -1.619098]}",Newcastle,Vegetarian / Vegan Restaurant,0.18
+Vegano,Vegetarian / Vegan Restaurant,54.969493,-1.623521,463,"{'type': 'Point', 'coordinates': [54.969493, -1.623521]}",Newcastle,Vegetarian / Vegan Restaurant,0.18
+Hungry Vegan,Food & Drink Shop,54.973887,-1.611301,607,"{'type': 'Point', 'coordinates': [54.973887, -1.611301]}",Newcastle,Vegetarian / Vegan Restaurant,0.18
+Farplace Vegan Store,Vegetarian / Vegan Restaurant,54.971577,-1.617076,265,"{'type': 'Point', 'coordinates': [54.971577, -1.617076]}",Newcastle,Vegetarian / Vegan Restaurant,0.18
+The Bohemian,Vegetarian / Vegan Restaurant,54.96975326538086,-1.6188877820968628,176,"{'type': 'Point', 'coordinates': [54.96975326538086, -1.6188877820968628]}",Newcastle,Vegetarian / Vegan Restaurant,0.18
+Painted Elephant,Vegetarian / Vegan Restaurant,54.97484202113101,-1.610213455652714,734,"{'type': 'Point', 'coordinates': [54.97484202113101, -1.610213455652714]}",Newcastle,Vegetarian / Vegan Restaurant,0.18
+The Pet Stop,Pet Store,54.9743,-1.61128,647,"{'type': 'Point', 'coordinates': [54.9743, -1.61128]}",Newcastle,Dobby,0.2
+Big Shop,Pet Store,54.972352,-1.614438,365,"{'type': 'Point', 'coordinates': [54.972352, -1.614438]}",Newcastle,Dobby,0.2
+Robinsons,Pet Store,54.97311463420963,-1.6149015201509542,440,"{'type': 'Point', 'coordinates': [54.97311463420963, -1.6149015201509542]}",Newcastle,Dobby,0.2
