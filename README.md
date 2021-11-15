@@ -1,10 +1,10 @@
 # geospatial
 
-![](https://i.imgur.com/T9xU9pX.gif)
+![](https://c.tenor.com/JV8INozhBKkAAAAC/map-what.gif)
 
 ## Objetive:
 
--Find a location for a new gaming company based in some of this directives:
+- Find a location for a new gaming company based in some of this directives:
     - Designers like to go to design talks and share knowledge. There must be some nearby companies that also do design.
     - 30% of the company staff have at least 1 child.
     - Developers like to be near successful tech startups that have raised at least 1 Million dollars.
