@@ -1,6 +1,6 @@
 # geospatial
 
-![](https://c.tenor.com/JV8INozhBKkAAAAC/map-what.gif)
+![](https://img1.picmix.com/output/stamp/normal/8/9/6/8/1898698_2f457.gif)
 
 ## Objetive:
 
@@ -24,4 +24,8 @@
 - 3 notebooks:
     - study of companies
     - conection to Foursquare and comparation
-    - 3 maps of the cities with all the venues that match the critearias
+    - 3 maps of the cities with all the venues that match the critearias (use [nbviewer](https://nbviewer.org/github/data2021oct/geospatial/blob/main/notebooks/mapas.ipynb) to see it)
+- folder Data:
+    - stores data i have created during the analysis:
+        - venues_df.csv contains all the venues i have found in Foursquare and i have used it to load the information in the maps
+        - geo_venus.csv contains all the data in geoDataFrame format
